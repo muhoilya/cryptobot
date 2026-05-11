@@ -161,7 +161,7 @@ def get_liquidity_tier(book_usd):
 # ===========================
 # CONFIG
 # ===========================
-API_KEY = "CG-WMycN7HmApdGhGJ5jJdVvCMi"
+API_KEY = "CG-rkovY7FLLgAaQXrKobYe1pF6"
 COINS = [
     "celestia", "floki", "algorand", "raydium", "bonk", "dash", "tron", "zencash", "origintrail", "zcash", "dogecoin",
     "avalanche-2", "solana", "bittensor", "ethereum", "bitcoin",
