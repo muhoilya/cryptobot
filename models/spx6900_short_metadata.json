@@ -1,0 +1,10 @@
+{
+  "coin": "spx6900",
+  "trained_date": "2026-07-15T10:21:53.806022",
+  "accuracy": 0.9583333333333334,
+  "samples": 314,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}
