@@ -1,0 +1,10 @@
+{
+  "coin": "figure-heloc",
+  "trained_date": "2026-07-13T09:14:32.323766",
+  "accuracy": 0.7317073170731707,
+  "samples": 297,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

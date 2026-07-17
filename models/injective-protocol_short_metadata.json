@@ -1,0 +1,10 @@
+{
+  "coin": "injective-protocol",
+  "trained_date": "2026-07-03T14:20:14.519474",
+  "accuracy": 0.8125,
+  "samples": 340,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

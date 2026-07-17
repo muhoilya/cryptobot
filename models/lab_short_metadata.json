@@ -1,0 +1,10 @@
+{
+  "coin": "lab",
+  "trained_date": "2026-07-13T09:25:30.699930",
+  "accuracy": 0.7647058823529411,
+  "samples": 248,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

@@ -1,0 +1,10 @@
+{
+  "coin": "quant-network",
+  "trained_date": "2026-06-29T17:31:59.284361",
+  "accuracy": 0.6666666666666666,
+  "samples": 314,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}
