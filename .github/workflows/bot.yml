@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests pandas numpy scikit-learn \
-                      colorama ccxt pycoingecko xgboost lightgbm
+                      colorama ccxt pycoingecko
 
       - name: Train ML models (weekly)
         if: github.event.schedule == '17 3 * * 0' || inputs.train == true
@@ -66,6 +66,6 @@ jobs:
         run: |
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions Bot"
-          git add keepalive.log
-          git diff --staged --quiet || git commit -m "keepalive $(date -u +%Y-%m-%d)"
+          git add keepalive.log models/
+          git diff --staged --quiet || git commit -m "daily run + state $(date -u +%Y-%m-%d)"
           git push || true
