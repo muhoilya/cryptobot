@@ -1,0 +1,13 @@
+{
+  "coin": "aerodrome-finance",
+  "trained_date": "2026-07-15T09:41:06.277558",
+  "accuracy": 0.4666666666666667,
+  "samples": 99,
+  "wf_sharpe": 0.0,
+  "feature_version": "v2.0-leak-fix",
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting",
+  "probability_calibrated": false,
+  "calibration_method": "none"
+}

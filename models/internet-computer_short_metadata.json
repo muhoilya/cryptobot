@@ -1,0 +1,10 @@
+{
+  "coin": "internet-computer",
+  "trained_date": "2026-07-15T09:44:10.749356",
+  "accuracy": 0.9375,
+  "samples": 314,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}
