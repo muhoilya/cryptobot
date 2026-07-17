@@ -1,0 +1,10 @@
+{
+  "coin": "tron",
+  "trained_date": "2026-07-15T09:23:34.600766",
+  "accuracy": 0.4791666666666667,
+  "samples": 314,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}
