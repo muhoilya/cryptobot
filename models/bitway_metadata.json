@@ -1,0 +1,13 @@
+{
+  "coin": "bitway",
+  "trained_date": "2026-07-15T10:29:05.003343",
+  "accuracy": 0.07692307692307693,
+  "samples": 84,
+  "wf_sharpe": 0.0,
+  "feature_version": "v2.0-leak-fix",
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting",
+  "probability_calibrated": false,
+  "calibration_method": "none"
+}

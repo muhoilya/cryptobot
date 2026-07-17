@@ -1,0 +1,13 @@
+{
+  "coin": "flying-tulip",
+  "trained_date": "2026-07-15T10:26:20.314721",
+  "accuracy": 0.0,
+  "samples": 92,
+  "wf_sharpe": 0.0,
+  "feature_version": "v2.0-leak-fix",
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting",
+  "probability_calibrated": false,
+  "calibration_method": "none"
+}

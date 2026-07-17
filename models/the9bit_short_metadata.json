@@ -1,0 +1,10 @@
+{
+  "coin": "the9bit",
+  "trained_date": "2026-07-15T10:30:43.576582",
+  "accuracy": 0.9523809523809523,
+  "samples": 138,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}
