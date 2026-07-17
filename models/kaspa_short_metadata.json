@@ -1,0 +1,10 @@
+{
+  "coin": "kaspa",
+  "trained_date": "2026-07-16T09:11:11.629271",
+  "accuracy": 0.9166666666666666,
+  "samples": 340,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}
