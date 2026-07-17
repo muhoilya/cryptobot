@@ -1,0 +1,10 @@
+{
+  "coin": "lido-dao",
+  "trained_date": "2026-07-15T11:43:35.020265",
+  "accuracy": 0.875,
+  "samples": 314,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

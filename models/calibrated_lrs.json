@@ -1,0 +1,383 @@
+{
+  "calibrated_date": "2026-07-15T10:38:39.407998",
+  "n_signals": 94,
+  "lrs": {
+    "btc_bull_regime": [
+      2.1,
+      0.9
+    ],
+    "btc_bear_regime_block": [
+      0.5,
+      1.4
+    ],
+    "above_weekly_ema50": [
+      1.077,
+      0.977
+    ],
+    "below_weekly_ema50": [
+      0.929,
+      1.085
+    ],
+    "above_cloud": [
+      1.08,
+      0.961
+    ],
+    "in_cloud": [
+      0.954,
+      1.017
+    ],
+    "below_cloud_block": [
+      0.896,
+      1.156
+    ],
+    "tenkan_above_kijun": [
+      1.09,
+      0.95
+    ],
+    "chikou_fully_bullish": [
+      1.045,
+      0.984
+    ],
+    "chikou_partial_bullish": [
+      1.137,
+      0.975
+    ],
+    "chikou_fully_bearish": [
+      0.954,
+      1.034
+    ],
+    "chikou_partial_bearish": [
+      0.971,
+      1.011
+    ],
+    "macd_bullish_hist": [
+      0.976,
+      1.083
+    ],
+    "macd_bearish_hist": [
+      1.026,
+      0.981
+    ],
+    "ema12_above_ema26": [
+      1.069,
+      0.952
+    ],
+    "ema12_below_ema26": [
+      0.928,
+      1.066
+    ],
+    "di_plus_dominant": [
+      1.075,
+      0.931
+    ],
+    "di_minus_dominant": [
+      0.938,
+      1.037
+    ],
+    "rsi_continuation_zone": [
+      1.016,
+      0.993
+    ],
+    "rsi_extreme_overbought": [
+      0.63,
+      1.598
+    ],
+    "rsi_oversold_bounce": [
+      1.003,
+      0.999
+    ],
+    "rsi_range_overbought": [
+      0.737,
+      1.162
+    ],
+    "rsi_bullish_divergence": [
+      1.65,
+      0.9
+    ],
+    "rsi_bearish_divergence": [
+      0.55,
+      1.4
+    ],
+    "obv_rising_at_high": [
+      1.043,
+      0.98
+    ],
+    "obv_rising_not_at_high": [
+      1.042,
+      0.968
+    ],
+    "obv_flat": [
+      1.016,
+      0.995
+    ],
+    "obv_falling": [
+      0.984,
+      1.026
+    ],
+    "sm_accumulation": [
+      1.029,
+      0.989
+    ],
+    "sm_distribution": [
+      0.62,
+      1.586
+    ],
+    "volume_spike_confirmed": [
+      1.028,
+      0.986
+    ],
+    "volume_increasing_trend": [
+      1.112,
+      0.94
+    ],
+    "volume_healthy": [
+      1.002,
+      1.047
+    ],
+    "volume_fake_move": [
+      0.852,
+      1.108
+    ],
+    "volume_churning": [
+      0.45,
+      1.7
+    ],
+    "volume_weak": [
+      1.056,
+      1.001
+    ],
+    "vol_expansion_bullish": [
+      1.65,
+      0.72
+    ],
+    "vol_expansion_bearish": [
+      0.55,
+      1.55
+    ],
+    "vol_compression": [
+      1.2,
+      0.9
+    ],
+    "vol_squeeze_on": [
+      1.35,
+      0.88
+    ],
+    "vol_bb_wide": [
+      1.126,
+      0.957
+    ],
+    "vol_bb_narrow": [
+      0.938,
+      1.016
+    ],
+    "vol_atr_expanding": [
+      1.127,
+      0.957
+    ],
+    "vol_atr_contracting": [
+      1.002,
+      1.007
+    ],
+    "vol_hv_rising": [
+      1.25,
+      0.9
+    ],
+    "regime_bull_trend_amplifier": [
+      1.38,
+      0.88
+    ],
+    "regime_range_dampener": [
+      0.92,
+      1.05
+    ],
+    "zscore_healthy_trend": [
+      1.029,
+      0.984
+    ],
+    "zscore_blow_off": [
+      0.996,
+      1.005
+    ],
+    "zscore_oversold_range": [
+      1.205,
+      0.87
+    ],
+    "zscore_falling_knife": [
+      0.504,
+      1.628
+    ],
+    "ema26_extreme_stretch": [
+      0.523,
+      1.684
+    ],
+    "ema26_very_stretched": [
+      0.563,
+      1.406
+    ],
+    "ema26_stretched": [
+      0.984,
+      1.022
+    ],
+    "ema26_oversold": [
+      2.081,
+      0.881
+    ],
+    "wick_rejection": [
+      0.55,
+      1.6
+    ],
+    "wick_strong_close": [
+      1.4,
+      0.8
+    ],
+    "wick_capitulation": [
+      1.45,
+      0.85
+    ],
+    "structure_bullish_hh_hl": [
+      1.6,
+      0.75
+    ],
+    "structure_bearish_lh_ll": [
+      0.55,
+      1.55
+    ],
+    "structure_bos_bullish": [
+      1.75,
+      0.8
+    ],
+    "structure_bos_bearish": [
+      0.5,
+      1.65
+    ],
+    "structure_choch_bullish": [
+      1.5,
+      0.85
+    ],
+    "structure_choch_bearish": [
+      0.52,
+      1.55
+    ],
+    "structure_sfp_bullish": [
+      1.65,
+      0.85
+    ],
+    "structure_sfp_bearish": [
+      0.55,
+      1.5
+    ],
+    "structure_accumulation": [
+      1.5,
+      0.8
+    ],
+    "structure_distribution": [
+      0.6,
+      1.5
+    ],
+    "structure_ranging": [
+      0.9,
+      1.05
+    ],
+    "orderbook_strong_buy_imbalance": [
+      1.45,
+      0.85
+    ],
+    "orderbook_strong_sell_imbalance": [
+      0.65,
+      1.35
+    ],
+    "orderbook_paper_thin": [
+      0.7,
+      1.2
+    ],
+    "strong_chop_zone": [
+      0.928,
+      1.046
+    ],
+    "moderate_chop_zone": [
+      0.965,
+      1.02
+    ],
+    "breakout_confirmed": [
+      1.028,
+      0.985
+    ],
+    "breakdown_confirmed": [
+      0.966,
+      1.02
+    ],
+    "sentiment_very_positive": [
+      1.18,
+      0.92
+    ],
+    "sentiment_positive": [
+      1.08,
+      0.96
+    ],
+    "sentiment_negative": [
+      0.92,
+      1.08
+    ],
+    "sentiment_very_negative": [
+      0.85,
+      1.18
+    ],
+    "micro_spread_tight": [
+      1.18,
+      0.95
+    ],
+    "micro_spread_wide": [
+      0.78,
+      1.18
+    ],
+    "micro_ob_strong_bull": [
+      1.45,
+      0.8
+    ],
+    "micro_ob_mild_bull": [
+      1.2,
+      0.92
+    ],
+    "micro_ob_strong_bear": [
+      0.65,
+      1.4
+    ],
+    "micro_ob_mild_bear": [
+      0.82,
+      1.12
+    ],
+    "micro_flow_strong_buy": [
+      1.55,
+      0.75
+    ],
+    "micro_flow_mild_buy": [
+      1.22,
+      0.9
+    ],
+    "micro_flow_strong_sell": [
+      0.58,
+      1.52
+    ],
+    "micro_flow_mild_sell": [
+      0.82,
+      1.14
+    ],
+    "micro_depth_deep": [
+      1.22,
+      0.92
+    ],
+    "micro_depth_thin": [
+      0.8,
+      1.18
+    ],
+    "micro_liq_shorts_squeezed": [
+      1.38,
+      0.85
+    ],
+    "micro_liq_longs_stopped": [
+      0.68,
+      1.32
+    ]
+  },
+  "stats": {}
+}
