@@ -1,8 +1,14 @@
 name: Crypto Bot & Gem Scanner
 on:
   schedule:
-    - cron: "17 11 * * *"   # daily at 08:17 UTC
+    - cron: "17 11 * * *"   # daily at 11:17 UTC - bot + gem scanner
+    - cron: "17 3 * * 0"    # weekly Sunday 03:17 UTC - model training
   workflow_dispatch:
+    inputs:
+      train:
+        description: "Force model retrain"
+        type: boolean
+        default: false
 jobs:
   run-bot:
     runs-on: ubuntu-latest
@@ -11,33 +17,52 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-      - name: Cache ML models
-        uses: actions/cache@v3
-        with:
-          path: models/
-          key: ml-models-v1
+
       - name: Install dependencies
         run: |
           pip install requests pandas numpy scikit-learn \
-                      colorama ccxt pycoingecko
+                      colorama ccxt pycoingecko xgboost lightgbm
+
+      - name: Train ML models (weekly)
+        if: github.event.schedule == '17 3 * * 0' || inputs.train == true
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python crypto_trading_bot.py --train-global
+
+      - name: Commit trained models
+        if: github.event.schedule == '17 3 * * 0' || inputs.train == true
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions Bot"
+          git add models/
+          git diff --staged --quiet || git commit -m "weekly model retrain $(date -u +%Y-%m-%d)"
+          git push || true
+
       - name: Run main bot (BUY/SELL signals)
+        if: github.event.schedule != '17 3 * * 0'
         env:
           NTFY_TOPIC:       ${{ secrets.NTFY_TOPIC }}
           NTFY_WATCH_TOPIC: ${{ secrets.NTFY_WATCH_TOPIC }}
           USE_BINANCE_ORDER_BOOK: "false"
         run: python crypto_trading_bot.py
+
       - name: Run gem scanner
+        if: github.event.schedule != '17 3 * * 0'
         env:
           NTFY_TOPIC:       ${{ secrets.NTFY_TOPIC }}
           NTFY_WATCH_TOPIC: ${{ secrets.NTFY_WATCH_TOPIC }}
           USE_BINANCE_ORDER_BOOK: "false"
         run: python gem_scanner.py
+
       - name: Keep repo active (prevents GitHub auto-disabling schedule)
+        if: github.event.schedule != '17 3 * * 0'
         run: |
           echo "Bot ran at $(date -u)" >> keepalive.log
           tail -20 keepalive.log > keepalive.tmp
           mv keepalive.tmp keepalive.log
+
       - name: Commit keepalive log
+        if: github.event.schedule != '17 3 * * 0'
         run: |
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions Bot"
