@@ -1,8 +1,8 @@
 {
   "coin": "lighter",
-  "trained_date": "2026-07-15T11:39:00.728390",
-  "accuracy": 0.6956521739130435,
-  "samples": 147,
+  "trained_date": "2026-07-18T12:14:12.719431",
+  "accuracy": 0.6521739130434783,
+  "samples": 176,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

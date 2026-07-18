@@ -1,7 +1,7 @@
 {
   "coin": "telcoin",
-  "trained_date": "2026-07-15T10:08:18.405947",
-  "accuracy": 0.4,
+  "trained_date": "2026-07-18T12:08:22.786004",
+  "accuracy": 0.13333333333333333,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

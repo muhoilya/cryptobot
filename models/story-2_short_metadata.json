@@ -1,7 +1,7 @@
 {
   "coin": "story-2",
-  "trained_date": "2026-07-15T09:30:02.863020",
-  "accuracy": 0.8125,
+  "trained_date": "2026-07-18T12:06:21.777265",
+  "accuracy": 0.875,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

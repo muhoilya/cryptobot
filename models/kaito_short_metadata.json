@@ -1,7 +1,7 @@
 {
   "coin": "kaito",
-  "trained_date": "2026-07-16T09:15:31.066028",
-  "accuracy": 0.6666666666666666,
+  "trained_date": "2026-07-18T12:20:56.353366",
+  "accuracy": 1.0,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

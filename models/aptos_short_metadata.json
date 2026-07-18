@@ -1,6 +1,6 @@
 {
   "coin": "aptos",
-  "trained_date": "2026-07-15T09:59:42.700465",
+  "trained_date": "2026-07-18T12:08:15.885282",
   "accuracy": 0.8333333333333334,
   "samples": 314,
   "model_version": "v8.2",

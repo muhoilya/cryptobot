@@ -1,7 +1,7 @@
 {
   "coin": "huobi-token",
-  "trained_date": "2026-07-15T09:17:50.964491",
-  "accuracy": 1.0,
+  "trained_date": "2026-07-18T12:10:24.067316",
+  "accuracy": 0.8666666666666667,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

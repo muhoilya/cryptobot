@@ -1,7 +1,7 @@
 {
   "coin": "mantle",
-  "trained_date": "2026-07-15T09:53:36.141183",
-  "accuracy": 0.8125,
+  "trained_date": "2026-07-18T12:08:00.206329",
+  "accuracy": 0.7708333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

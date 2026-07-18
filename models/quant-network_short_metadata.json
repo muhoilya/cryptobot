@@ -1,7 +1,7 @@
 {
   "coin": "quant-network",
-  "trained_date": "2026-06-29T17:31:59.284361",
-  "accuracy": 0.6666666666666666,
+  "trained_date": "2026-07-18T12:08:07.755587",
+  "accuracy": 0.8541666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

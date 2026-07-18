@@ -1,7 +1,7 @@
 {
   "coin": "velvet",
-  "trained_date": "2026-07-15T10:31:19.348718",
-  "accuracy": 0.3333333333333333,
+  "trained_date": "2026-07-18T12:09:50.651372",
+  "accuracy": 0.5333333333333333,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

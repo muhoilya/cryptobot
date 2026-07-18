@@ -1,7 +1,7 @@
 {
   "coin": "internet-computer",
-  "trained_date": "2026-07-15T09:44:09.551681",
-  "accuracy": 0.4666666666666667,
+  "trained_date": "2026-07-18T12:07:47.198668",
+  "accuracy": 0.5333333333333333,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

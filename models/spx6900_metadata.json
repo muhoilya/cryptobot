@@ -1,7 +1,7 @@
 {
   "coin": "spx6900",
-  "trained_date": "2026-07-15T10:21:52.569754",
-  "accuracy": 0.6,
+  "trained_date": "2026-07-18T12:08:49.305220",
+  "accuracy": 0.4666666666666667,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

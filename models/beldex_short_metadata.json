@@ -1,7 +1,7 @@
 {
   "coin": "beldex",
-  "trained_date": "2026-07-16T09:11:38.553507",
-  "accuracy": 0.7291666666666666,
+  "trained_date": "2026-07-18T12:20:18.498396",
+  "accuracy": 0.5416666666666666,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

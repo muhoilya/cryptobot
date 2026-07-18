@@ -1,8 +1,8 @@
 {
   "coin": "backpack",
-  "trained_date": "2026-07-15T08:59:19.124374",
-  "accuracy": 0.9,
-  "samples": 90,
+  "trained_date": "2026-07-18T12:18:54.481183",
+  "accuracy": 1.0,
+  "samples": 93,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

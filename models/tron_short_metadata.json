@@ -1,7 +1,7 @@
 {
   "coin": "tron",
-  "trained_date": "2026-07-15T09:23:34.600766",
-  "accuracy": 0.4791666666666667,
+  "trained_date": "2026-07-18T12:05:14.109165",
+  "accuracy": 0.4583333333333333,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

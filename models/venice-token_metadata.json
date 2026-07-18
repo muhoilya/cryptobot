@@ -1,7 +1,7 @@
 {
   "coin": "venice-token",
-  "trained_date": "2026-07-15T10:26:53.602287",
-  "accuracy": 0.4,
+  "trained_date": "2026-07-18T12:09:08.385919",
+  "accuracy": 0.2,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

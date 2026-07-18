@@ -1,7 +1,7 @@
 {
   "coin": "plasma",
-  "trained_date": "2026-07-15T10:22:59.793478",
-  "accuracy": 0.6,
+  "trained_date": "2026-07-18T12:08:53.635247",
+  "accuracy": 0.8,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

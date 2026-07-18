@@ -1,7 +1,7 @@
 {
   "coin": "railgun",
-  "trained_date": "2026-07-15T10:31:01.945155",
-  "accuracy": 0.0,
+  "trained_date": "2026-07-18T12:09:46.680319",
+  "accuracy": 0.4666666666666667,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

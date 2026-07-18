@@ -1,7 +1,7 @@
 {
   "coin": "zano",
-  "trained_date": "2026-07-16T09:16:52.022371",
-  "accuracy": 0.7916666666666666,
+  "trained_date": "2026-07-18T12:17:45.662061",
+  "accuracy": 0.8125,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

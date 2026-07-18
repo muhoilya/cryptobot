@@ -1,8 +1,8 @@
 {
   "coin": "midnight-3",
-  "trained_date": "2026-07-16T09:12:16.648110",
+  "trained_date": "2026-07-18T12:20:22.293927",
   "accuracy": 1.0,
-  "samples": 195,
+  "samples": 197,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

@@ -1,7 +1,7 @@
 {
   "coin": "ethena",
-  "trained_date": "2026-07-16T09:11:06.406047",
-  "accuracy": 0.8958333333333334,
+  "trained_date": "2026-07-18T12:13:26.167775",
+  "accuracy": 0.9166666666666666,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

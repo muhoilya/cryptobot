@@ -1,6 +1,6 @@
 {
   "coin": "avalanche-2",
-  "trained_date": "2026-07-15T09:25:16.445820",
+  "trained_date": "2026-07-18T12:05:33.778542",
   "accuracy": 0.75,
   "samples": 314,
   "model_version": "v8.2",

@@ -1,7 +1,7 @@
 {
   "coin": "convex-finance",
-  "trained_date": "2026-07-13T09:22:20.385972",
-  "accuracy": 0.7916666666666666,
+  "trained_date": "2026-07-18T12:19:29.395217",
+  "accuracy": 0.6666666666666666,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

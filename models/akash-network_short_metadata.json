@@ -1,7 +1,7 @@
 {
   "coin": "akash-network",
-  "trained_date": "2026-07-15T10:28:26.038422",
-  "accuracy": 0.8958333333333334,
+  "trained_date": "2026-07-18T12:09:18.104363",
+  "accuracy": 0.9166666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

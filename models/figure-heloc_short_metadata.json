@@ -1,8 +1,8 @@
 {
   "coin": "figure-heloc",
-  "trained_date": "2026-07-13T09:14:32.323766",
-  "accuracy": 0.7317073170731707,
-  "samples": 297,
+  "trained_date": "2026-07-18T12:11:08.005334",
+  "accuracy": 0.6666666666666666,
+  "samples": 302,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

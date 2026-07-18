@@ -1,0 +1,20 @@
+{
+  "interaction_lrs": {
+    "cloud_atr_expansion": 1.073,
+    "cloud_obv_7dhigh": 1.187,
+    "macd_volume_spike": 0.826,
+    "breakout_di_dominant": 0.915,
+    "btc_weekly_alignment": 1.9,
+    "smart_money_obv": 0.937,
+    "rsi_cloud_continuation": 1.068,
+    "bos_obv_confirmation": 1.78,
+    "squeeze_volume_spike": 1.55,
+    "btc_bear_obv_falling": 0.28,
+    "distribution_obv_fall": 0.917,
+    "rsi_zscore_blowoff": 0.755
+  },
+  "fitted": true,
+  "fit_date": "2026-07-18T12:10:40.428532",
+  "n_coins_fitted": 89,
+  "residual_shrink": 0.35
+}

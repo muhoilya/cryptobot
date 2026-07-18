@@ -1,7 +1,7 @@
 {
   "coin": "zcash",
-  "trained_date": "2026-07-15T11:39:44.158128",
-  "accuracy": 0.875,
+  "trained_date": "2026-07-18T12:05:25.803563",
+  "accuracy": 0.9166666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

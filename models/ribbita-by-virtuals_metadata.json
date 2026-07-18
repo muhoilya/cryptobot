@@ -1,7 +1,7 @@
 {
   "coin": "ribbita-by-virtuals",
-  "trained_date": "2026-07-15T09:37:16.984733",
-  "accuracy": 0.6,
+  "trained_date": "2026-07-18T12:07:26.960794",
+  "accuracy": 0.7333333333333333,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

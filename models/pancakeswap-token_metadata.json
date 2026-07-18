@@ -1,7 +1,7 @@
 {
   "coin": "pancakeswap-token",
-  "trained_date": "2026-07-15T09:16:57.394930",
-  "accuracy": 0.6666666666666666,
+  "trained_date": "2026-07-18T12:10:11.513743",
+  "accuracy": 0.6,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

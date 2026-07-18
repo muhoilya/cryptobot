@@ -1,0 +1,13 @@
+{
+  "coin": "floki",
+  "trained_date": "2026-07-18T12:04:52.949996",
+  "accuracy": 0.13333333333333333,
+  "samples": 99,
+  "wf_sharpe": 0.0,
+  "feature_version": "v2.0-leak-fix",
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting",
+  "probability_calibrated": false,
+  "calibration_method": "none"
+}

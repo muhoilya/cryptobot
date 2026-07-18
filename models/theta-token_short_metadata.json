@@ -1,6 +1,6 @@
 {
   "coin": "theta-token",
-  "trained_date": "2026-07-13T09:25:12.740781",
+  "trained_date": "2026-07-18T12:18:08.285346",
   "accuracy": 0.8333333333333334,
   "samples": 340,
   "model_version": "v8.2",
