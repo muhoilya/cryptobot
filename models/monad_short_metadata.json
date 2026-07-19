@@ -1,8 +1,8 @@
 {
   "coin": "monad",
-  "trained_date": "2026-07-18T12:15:58.174506",
-  "accuracy": 0.8928571428571429,
-  "samples": 212,
+  "trained_date": "2026-07-19T12:17:17.576370",
+  "accuracy": 0.896551724137931,
+  "samples": 213,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

@@ -1,7 +1,7 @@
 {
   "coin": "bonk",
-  "trained_date": "2026-07-18T12:05:06.209494",
-  "accuracy": 0.7708333333333334,
+  "trained_date": "2026-07-19T12:06:52.559356",
+  "accuracy": 0.75,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

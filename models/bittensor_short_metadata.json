@@ -1,6 +1,6 @@
 {
   "coin": "bittensor",
-  "trained_date": "2026-07-18T12:05:41.901616",
+  "trained_date": "2026-07-19T12:07:21.944367",
   "accuracy": 0.875,
   "samples": 314,
   "model_version": "v8.2",

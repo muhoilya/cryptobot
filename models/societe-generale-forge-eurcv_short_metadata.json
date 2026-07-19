@@ -1,6 +1,6 @@
 {
   "coin": "societe-generale-forge-eurcv",
-  "trained_date": "2026-07-18T12:17:50.398714",
+  "trained_date": "2026-07-19T12:19:34.466953",
   "accuracy": 0.75,
   "samples": 340,
   "model_version": "v8.2",

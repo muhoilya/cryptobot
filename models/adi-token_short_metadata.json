@@ -1,8 +1,8 @@
 {
   "coin": "adi-token",
-  "trained_date": "2026-07-18T12:20:06.454675",
-  "accuracy": 0.9230769230769231,
-  "samples": 197,
+  "trained_date": "2026-07-19T12:22:28.250955",
+  "accuracy": 0.9615384615384616,
+  "samples": 198,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

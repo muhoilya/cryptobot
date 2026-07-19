@@ -1,7 +1,7 @@
 {
   "coin": "chain-2",
-  "trained_date": "2026-07-18T12:18:12.798763",
-  "accuracy": 0.8541666666666666,
+  "trained_date": "2026-07-19T12:19:52.089234",
+  "accuracy": 0.8333333333333334,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

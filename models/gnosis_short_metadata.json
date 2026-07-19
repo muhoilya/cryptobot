@@ -1,7 +1,7 @@
 {
   "coin": "gnosis",
-  "trained_date": "2026-07-18T12:07:08.574947",
-  "accuracy": 0.8125,
+  "trained_date": "2026-07-19T12:08:33.743592",
+  "accuracy": 0.8333333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

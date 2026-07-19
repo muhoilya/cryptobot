@@ -1,6 +1,6 @@
 {
   "coin": "arbitrum",
-  "trained_date": "2026-07-18T12:13:57.943501",
+  "trained_date": "2026-07-19T12:15:08.698345",
   "accuracy": 0.8125,
   "samples": 340,
   "model_version": "v8.2",

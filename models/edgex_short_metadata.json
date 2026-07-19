@@ -1,0 +1,10 @@
+{
+  "coin": "edgex",
+  "trained_date": "2026-07-19T12:22:50.740990",
+  "accuracy": 0.5555555555555556,
+  "samples": 86,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

@@ -1,6 +1,6 @@
 {
   "coin": "monero",
-  "trained_date": "2026-07-18T12:11:30.624575",
+  "trained_date": "2026-07-19T12:12:17.090007",
   "accuracy": 0.8541666666666666,
   "samples": 340,
   "model_version": "v8.2",
