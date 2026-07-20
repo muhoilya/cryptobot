@@ -1,8 +1,8 @@
 {
   "coin": "pieverse",
-  "trained_date": "2026-07-19T12:18:50.434802",
+  "trained_date": "2026-07-20T13:30:18.113097",
   "accuracy": 0.8666666666666667,
-  "samples": 223,
+  "samples": 224,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

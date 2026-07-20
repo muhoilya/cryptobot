@@ -1,6 +1,6 @@
 {
   "coin": "zcash",
-  "trained_date": "2026-07-19T12:07:09.145176",
+  "trained_date": "2026-07-20T13:18:01.469532",
   "accuracy": 0.9166666666666666,
   "samples": 314,
   "model_version": "v8.2",

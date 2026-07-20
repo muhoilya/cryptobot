@@ -1,6 +1,6 @@
 {
   "coin": "pancakeswap-token",
-  "trained_date": "2026-07-19T12:15:30.725344",
+  "trained_date": "2026-07-20T13:26:49.223233",
   "accuracy": 0.9166666666666666,
   "samples": 340,
   "model_version": "v8.2",

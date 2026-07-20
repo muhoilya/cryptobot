@@ -1,6 +1,6 @@
 {
   "coin": "bitcoin-cash-sv",
-  "trained_date": "2026-07-16T09:19:37.432328",
+  "trained_date": "2026-07-20T13:28:20.678518",
   "accuracy": 0.8125,
   "samples": 340,
   "model_version": "v8.2",

@@ -1,6 +1,6 @@
 {
   "coin": "uniswap",
-  "trained_date": "2026-07-19T12:12:55.515786",
+  "trained_date": "2026-07-20T13:23:59.060264",
   "accuracy": 0.8958333333333334,
   "samples": 340,
   "model_version": "v8.2",
