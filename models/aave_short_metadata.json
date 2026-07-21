@@ -1,6 +1,6 @@
 {
   "coin": "aave",
-  "trained_date": "2026-07-20T13:22:31.593042",
+  "trained_date": "2026-07-21T12:48:25.806751",
   "accuracy": 0.8125,
   "samples": 314,
   "model_version": "v8.2",

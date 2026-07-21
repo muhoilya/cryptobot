@@ -1,7 +1,7 @@
 {
   "coin": "stp-network",
-  "trained_date": "2026-07-20T13:22:06.732532",
-  "accuracy": 0.875,
+  "trained_date": "2026-07-21T12:48:03.419527",
+  "accuracy": 0.9166666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

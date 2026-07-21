@@ -1,7 +1,7 @@
 {
   "coin": "the-graph",
-  "trained_date": "2026-07-20T13:30:10.197920",
-  "accuracy": 0.8333333333333334,
+  "trained_date": "2026-07-21T12:55:45.016629",
+  "accuracy": 0.8541666666666666,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

@@ -1,6 +1,6 @@
 {
   "coin": "near",
-  "trained_date": "2026-07-20T13:18:54.415596",
+  "trained_date": "2026-07-21T12:45:04.992954",
   "accuracy": 0.9375,
   "samples": 314,
   "model_version": "v8.2",

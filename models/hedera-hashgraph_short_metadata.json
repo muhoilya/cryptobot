@@ -1,6 +1,6 @@
 {
   "coin": "hedera-hashgraph",
-  "trained_date": "2026-07-20T13:19:29.193208",
+  "trained_date": "2026-07-21T12:45:37.443588",
   "accuracy": 0.7916666666666666,
   "samples": 314,
   "model_version": "v8.2",

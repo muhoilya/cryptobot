@@ -1,7 +1,7 @@
 {
   "coin": "derive",
-  "trained_date": "2026-07-20T13:32:18.953914",
-  "accuracy": 0.9583333333333334,
+  "trained_date": "2026-07-21T12:57:41.721596",
+  "accuracy": 0.9375,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

@@ -1,7 +1,7 @@
 {
   "coin": "decentraland",
-  "trained_date": "2026-07-20T13:31:34.106902",
-  "accuracy": 0.7916666666666666,
+  "trained_date": "2026-07-21T12:57:14.923886",
+  "accuracy": 0.7708333333333334,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

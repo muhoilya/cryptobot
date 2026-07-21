@@ -1,6 +1,6 @@
 {
   "coin": "curve-dao-token",
-  "trained_date": "2026-07-20T13:27:38.956550",
+  "trained_date": "2026-07-21T12:53:16.566586",
   "accuracy": 0.9166666666666666,
   "samples": 340,
   "model_version": "v8.2",

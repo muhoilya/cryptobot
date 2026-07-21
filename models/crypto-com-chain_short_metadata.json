@@ -1,7 +1,7 @@
 {
   "coin": "crypto-com-chain",
-  "trained_date": "2026-07-20T13:20:52.468018",
-  "accuracy": 0.8125,
+  "trained_date": "2026-07-21T12:46:55.013227",
+  "accuracy": 0.8333333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
