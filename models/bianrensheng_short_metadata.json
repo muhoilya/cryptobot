@@ -1,8 +1,8 @@
 {
   "coin": "bianrensheng",
-  "trained_date": "2026-07-21T12:58:51.094753",
-  "accuracy": 0.9166666666666666,
-  "samples": 263,
+  "trained_date": "2026-07-22T12:54:46.822856",
+  "accuracy": 0.8888888888888888,
+  "samples": 264,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

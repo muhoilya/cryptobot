@@ -1,7 +1,7 @@
 {
   "coin": "nexo",
-  "trained_date": "2026-07-21T12:51:30.055853",
-  "accuracy": 0.7916666666666666,
+  "trained_date": "2026-07-22T13:01:01.813457",
+  "accuracy": 0.6666666666666666,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

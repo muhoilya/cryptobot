@@ -1,8 +1,8 @@
 {
   "coin": "plasma",
-  "trained_date": "2026-07-21T12:47:07.125549",
-  "accuracy": 0.6052631578947368,
-  "samples": 249,
+  "trained_date": "2026-07-22T12:50:06.874634",
+  "accuracy": 0.5789473684210527,
+  "samples": 250,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

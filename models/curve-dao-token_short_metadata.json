@@ -1,7 +1,7 @@
 {
   "coin": "curve-dao-token",
-  "trained_date": "2026-07-21T12:53:16.566586",
-  "accuracy": 0.9166666666666666,
+  "trained_date": "2026-07-22T12:55:57.592705",
+  "accuracy": 0.9375,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

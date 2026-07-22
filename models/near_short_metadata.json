@@ -1,8 +1,8 @@
 {
   "coin": "near",
-  "trained_date": "2026-07-21T12:45:04.992954",
+  "trained_date": "2026-07-22T13:00:46.985139",
   "accuracy": 0.9375,
-  "samples": 314,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

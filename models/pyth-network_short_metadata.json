@@ -1,7 +1,7 @@
 {
   "coin": "pyth-network",
-  "trained_date": "2026-07-21T12:48:22.648700",
-  "accuracy": 0.8541666666666666,
+  "trained_date": "2026-07-22T12:51:26.879601",
+  "accuracy": 0.75,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

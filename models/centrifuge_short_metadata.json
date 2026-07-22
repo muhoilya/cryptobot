@@ -1,7 +1,7 @@
 {
   "coin": "centrifuge",
-  "trained_date": "2026-07-21T12:45:50.190374",
-  "accuracy": 0.8958333333333334,
+  "trained_date": "2026-07-22T12:48:45.919104",
+  "accuracy": 0.875,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

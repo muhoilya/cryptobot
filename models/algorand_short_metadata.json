@@ -1,8 +1,8 @@
 {
   "coin": "algorand",
-  "trained_date": "2026-07-21T12:43:54.793167",
-  "accuracy": 0.8958333333333334,
-  "samples": 314,
+  "trained_date": "2026-07-22T12:54:36.364407",
+  "accuracy": 0.9791666666666666,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

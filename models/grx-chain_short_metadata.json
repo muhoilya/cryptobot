@@ -1,8 +1,8 @@
 {
   "coin": "grx-chain",
-  "trained_date": "2026-07-20T13:32:10.776841",
+  "trained_date": "2026-07-22T12:59:49.163017",
   "accuracy": 0.875,
-  "samples": 182,
+  "samples": 184,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",
