@@ -1,8 +1,8 @@
 {
   "coin": "edgex",
-  "trained_date": "2026-07-22T13:02:09.615217",
-  "accuracy": 0.3,
-  "samples": 89,
+  "trained_date": "2026-07-23T13:04:32.679663",
+  "accuracy": 0.2,
+  "samples": 90,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

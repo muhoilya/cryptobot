@@ -1,7 +1,7 @@
 {
   "coin": "kucoin-shares",
-  "trained_date": "2026-07-22T12:48:39.440716",
-  "accuracy": 0.8333333333333334,
+  "trained_date": "2026-07-23T12:50:43.594221",
+  "accuracy": 0.875,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

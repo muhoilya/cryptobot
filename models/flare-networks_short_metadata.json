@@ -1,0 +1,10 @@
+{
+  "coin": "flare-networks",
+  "trained_date": "2026-07-23T12:57:15.545050",
+  "accuracy": 0.7291666666666666,
+  "samples": 340,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

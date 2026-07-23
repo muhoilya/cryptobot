@@ -1,0 +1,10 @@
+{
+  "coin": "impossible-cloud-network-token",
+  "trained_date": "2026-07-23T13:03:11.978063",
+  "accuracy": 0.8958333333333334,
+  "samples": 340,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

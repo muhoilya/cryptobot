@@ -1,0 +1,10 @@
+{
+  "coin": "apenft",
+  "trained_date": "2026-07-23T12:59:19.818582",
+  "accuracy": 0.4166666666666667,
+  "samples": 340,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

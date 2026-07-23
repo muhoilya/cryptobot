@@ -1,8 +1,8 @@
 {
   "coin": "mx-token",
-  "trained_date": "2026-07-22T12:58:41.816791",
-  "accuracy": 0.5208333333333334,
-  "samples": 340,
+  "trained_date": "2026-07-23T12:52:12.240333",
+  "accuracy": 0.7083333333333334,
+  "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

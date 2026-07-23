@@ -1,7 +1,7 @@
 {
   "coin": "filecoin",
-  "trained_date": "2026-07-22T12:48:19.285793",
-  "accuracy": 0.8541666666666666,
+  "trained_date": "2026-07-23T12:50:23.914794",
+  "accuracy": 0.8958333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

@@ -1,8 +1,8 @@
 {
   "coin": "uniswap",
-  "trained_date": "2026-07-22T12:52:52.599366",
-  "accuracy": 0.8958333333333334,
-  "samples": 340,
+  "trained_date": "2026-07-23T12:53:09.024005",
+  "accuracy": 0.6041666666666666,
+  "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",
