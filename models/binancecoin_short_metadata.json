@@ -1,7 +1,7 @@
 {
   "coin": "binancecoin",
-  "trained_date": "2026-07-23T12:49:43.276407",
-  "accuracy": 0.9375,
+  "trained_date": "2026-07-24T12:46:22.567421",
+  "accuracy": 0.9791666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

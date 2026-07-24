@@ -1,0 +1,10 @@
+{
+  "coin": "sapien-2",
+  "trained_date": "2026-07-24T12:51:52.365901",
+  "accuracy": 0.9772727272727273,
+  "samples": 314,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

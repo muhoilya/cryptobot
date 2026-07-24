@@ -1,7 +1,7 @@
 {
   "coin": "shiba-inu",
-  "trained_date": "2026-07-23T12:50:33.759318",
-  "accuracy": 0.8125,
+  "trained_date": "2026-07-24T12:47:10.017580",
+  "accuracy": 0.8333333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

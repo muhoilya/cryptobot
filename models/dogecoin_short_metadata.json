@@ -1,6 +1,6 @@
 {
   "coin": "dogecoin",
-  "trained_date": "2026-07-23T12:49:17.226348",
+  "trained_date": "2026-07-24T12:45:57.003474",
   "accuracy": 0.8333333333333334,
   "samples": 314,
   "model_version": "v8.2",

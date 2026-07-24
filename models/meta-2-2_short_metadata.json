@@ -1,0 +1,10 @@
+{
+  "coin": "meta-2-2",
+  "trained_date": "2026-07-24T12:51:28.722926",
+  "accuracy": 0.9318181818181818,
+  "samples": 318,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

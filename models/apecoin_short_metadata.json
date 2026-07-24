@@ -1,7 +1,7 @@
 {
   "coin": "apecoin",
-  "trained_date": "2026-07-23T12:51:49.456131",
-  "accuracy": 0.5208333333333334,
+  "trained_date": "2026-07-24T12:48:23.624897",
+  "accuracy": 0.6458333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

@@ -1,0 +1,10 @@
+{
+  "coin": "chainopera-ai",
+  "trained_date": "2026-07-24T12:58:16.085823",
+  "accuracy": 0.7105263157894737,
+  "samples": 278,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

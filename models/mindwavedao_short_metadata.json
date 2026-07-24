@@ -1,0 +1,10 @@
+{
+  "coin": "mindwavedao",
+  "trained_date": "2026-07-24T12:54:09.999777",
+  "accuracy": 1.0,
+  "samples": 333,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

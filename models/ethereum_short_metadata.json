@@ -1,7 +1,7 @@
 {
   "coin": "ethereum",
-  "trained_date": "2026-07-23T12:49:28.610336",
-  "accuracy": 0.8333333333333334,
+  "trained_date": "2026-07-24T12:46:07.982590",
+  "accuracy": 0.8541666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

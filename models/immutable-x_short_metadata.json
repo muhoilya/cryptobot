@@ -1,7 +1,7 @@
 {
   "coin": "immutable-x",
-  "trained_date": "2026-07-23T12:50:07.279549",
-  "accuracy": 0.875,
+  "trained_date": "2026-07-24T12:46:44.938175",
+  "accuracy": 0.8958333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

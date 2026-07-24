@@ -1,0 +1,10 @@
+{
+  "coin": "zerobase",
+  "trained_date": "2026-07-24T12:50:12.036726",
+  "accuracy": 0.9142857142857143,
+  "samples": 256,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

@@ -1,7 +1,7 @@
 {
   "coin": "eigenlayer",
-  "trained_date": "2026-07-23T12:52:39.460048",
-  "accuracy": 0.6041666666666666,
+  "trained_date": "2026-07-24T12:49:10.753660",
+  "accuracy": 0.6666666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

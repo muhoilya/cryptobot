@@ -1,0 +1,10 @@
+{
+  "coin": "unifai-network",
+  "trained_date": "2026-07-24T12:57:48.826025",
+  "accuracy": 1.0,
+  "samples": 236,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}
