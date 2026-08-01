@@ -1,6 +1,6 @@
 {
   "coin": "conflux-token",
-  "trained_date": "2026-07-24T12:48:13.933502",
+  "trained_date": "2026-08-01T12:16:37.734806",
   "accuracy": 0.9375,
   "samples": 314,
   "model_version": "v8.2",

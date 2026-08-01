@@ -1,8 +1,8 @@
 {
   "coin": "xdce-crowd-sale",
-  "trained_date": "2026-07-24T12:47:29.810377",
-  "accuracy": 0.9791666666666666,
-  "samples": 314,
+  "trained_date": "2026-08-01T12:22:38.120156",
+  "accuracy": 0.9166666666666666,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

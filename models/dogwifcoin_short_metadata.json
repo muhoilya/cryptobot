@@ -1,7 +1,7 @@
 {
   "coin": "dogwifcoin",
-  "trained_date": "2026-07-22T12:58:46.470617",
-  "accuracy": 0.7916666666666666,
+  "trained_date": "2026-08-01T12:27:06.090985",
+  "accuracy": 0.9375,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

@@ -1,7 +1,7 @@
 {
   "coin": "vechain",
-  "trained_date": "2026-07-23T12:57:56.924457",
-  "accuracy": 0.3958333333333333,
+  "trained_date": "2026-08-01T12:23:04.445864",
+  "accuracy": 0.9583333333333334,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

@@ -1,7 +1,7 @@
 {
   "coin": "grass",
-  "trained_date": "2026-07-18T12:09:01.126836",
-  "accuracy": 0.8,
+  "trained_date": "2026-08-01T12:17:21.411975",
+  "accuracy": 0.2,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

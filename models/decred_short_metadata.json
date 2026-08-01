@@ -1,7 +1,7 @@
 {
   "coin": "decred",
-  "trained_date": "2026-07-23T13:00:25.194271",
-  "accuracy": 0.8958333333333334,
+  "trained_date": "2026-08-01T12:29:08.632737",
+  "accuracy": 0.875,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

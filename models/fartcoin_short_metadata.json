@@ -1,7 +1,7 @@
 {
   "coin": "fartcoin",
-  "trained_date": "2026-07-24T12:46:48.259478",
-  "accuracy": 0.9166666666666666,
+  "trained_date": "2026-08-01T12:14:45.603497",
+  "accuracy": 0.9791666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

@@ -1,287 +1,5 @@
 [
   {
-    "coin": "zcash",
-    "timestamp": "2026-07-15T11:40:06.099430",
-    "ml_proba": 0.265,
-    "bayes_prob": 0.8577,
-    "p_bayes_raw": 0.9993,
-    "p_transition": 0.7193,
-    "price": 555.620878,
-    "atr": 34.619312,
-    "action": "STRONG BUY",
-    "regime": "bull_trend",
-    "outcome": 0,
-    "resolved_at": "2026-07-15T11:44:00.797717",
-    "mfe_atr": -0.639,
-    "mae_atr": -1.752
-  },
-  {
-    "coin": "kaito",
-    "timestamp": "2026-07-15T11:40:40.011825",
-    "ml_proba": 0.4184,
-    "bayes_prob": 0.8497,
-    "p_bayes_raw": 0.9999,
-    "p_transition": 0.667,
-    "price": 0.780619,
-    "atr": 0.055245,
-    "action": "STRONG BUY",
-    "regime": "bull_trend",
-    "outcome": 0,
-    "resolved_at": "2026-07-15T11:44:00.797745",
-    "mfe_atr": -2.205,
-    "mae_atr": -2.205
-  },
-  {
-    "coin": "just",
-    "timestamp": "2026-07-15T11:41:09.205451",
-    "ml_proba": 0.4192,
-    "bayes_prob": 0.848,
-    "p_bayes_raw": 0.9909,
-    "p_transition": 0.7304,
-    "price": 0.098955,
-    "atr": 0.00263,
-    "action": "STRONG BUY",
-    "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
-    "coin": "celestia",
-    "timestamp": "2026-07-15T11:41:40.843187",
-    "ml_proba": 0.4292,
-    "bayes_prob": 0.8391,
-    "p_bayes_raw": 0.9809,
-    "p_transition": 0.6795,
-    "price": 0.407514,
-    "atr": 0.020977,
-    "action": "STRONG BUY",
-    "regime": "bull_trend",
-    "outcome": 0,
-    "resolved_at": "2026-07-18T12:10:40.433741",
-    "mfe_atr": 0.375,
-    "mae_atr": -2.222
-  },
-  {
-    "coin": "aave",
-    "timestamp": "2026-07-15T11:42:14.740510",
-    "ml_proba": 0.418,
-    "bayes_prob": 0.8351,
-    "p_bayes_raw": 0.9957,
-    "p_transition": 0.6357,
-    "price": 98.382024,
-    "atr": 4.915596,
-    "action": "STRONG BUY",
-    "regime": "bull_trend",
-    "outcome": 0,
-    "resolved_at": "2026-07-18T12:10:40.433769",
-    "mfe_atr": 0.103,
-    "mae_atr": -1.71
-  },
-  {
-    "coin": "okb",
-    "timestamp": "2026-07-15T11:42:47.381671",
-    "ml_proba": 0.4108,
-    "bayes_prob": 0.8359,
-    "p_bayes_raw": 0.9907,
-    "p_transition": 0.7193,
-    "price": 81.639486,
-    "atr": 1.773024,
-    "action": "STRONG BUY",
-    "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
-    "coin": "uniswap",
-    "timestamp": "2026-07-15T11:43:16.990143",
-    "ml_proba": 0.4252,
-    "bayes_prob": 0.8407,
-    "p_bayes_raw": 0.9859,
-    "p_transition": 0.3585,
-    "price": 3.659664,
-    "atr": 0.157326,
-    "action": "STRONG BUY",
-    "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
-    "coin": "lido-dao",
-    "timestamp": "2026-07-15T11:43:55.505391",
-    "ml_proba": 0.4152,
-    "bayes_prob": 0.7776,
-    "p_bayes_raw": 0.9759,
-    "p_transition": 0.6567,
-    "price": 0.333822,
-    "atr": 0.015731,
-    "action": "STRONG BUY",
-    "regime": "range",
-    "outcome": 0,
-    "resolved_at": "2026-07-15T11:44:00.797839",
-    "mfe_atr": -1.483,
-    "mae_atr": -1.677
-  },
-  {
-    "coin": "algorand",
-    "timestamp": "2026-07-18T12:04:58.182830",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.6185,
-    "p_bayes_raw": 0.2019,
-    "p_transition": 0.5522,
-    "price": 0.082148,
-    "atr": 0.003592,
-    "action": "BUY",
-    "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
-    "coin": "raydium",
-    "timestamp": "2026-07-18T12:05:02.219373",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.6344,
-    "p_bayes_raw": 0.394,
-    "p_transition": 0.5,
-    "price": 0.673573,
-    "atr": 0.030979,
-    "action": "BUY",
-    "regime": "chop",
-    "outcome": 0,
-    "resolved_at": "2026-07-24T12:49:58.408230",
-    "mfe_atr": 1.292,
-    "mae_atr": -1.645
-  },
-  {
-    "coin": "bonk",
-    "timestamp": "2026-07-18T12:05:06.327981",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.67,
-    "p_bayes_raw": 0.0021,
-    "p_transition": 0.5,
-    "price": 3e-06,
-    "atr": 0.0,
-    "action": "BUY",
-    "regime": "bear",
-    "outcome": 1,
-    "resolved_at": "2026-07-18T12:10:40.433930",
-    "mfe_atr": 0.0,
-    "mae_atr": 0.0
-  },
-  {
-    "coin": "dash",
-    "timestamp": "2026-07-18T12:05:10.466810",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.5657,
-    "p_bayes_raw": 0.0589,
-    "p_transition": 0.5,
-    "price": 33.639133,
-    "atr": 1.698119,
-    "action": "BUY",
-    "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
-    "coin": "zencash",
-    "timestamp": "2026-07-18T12:05:18.302468",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.5887,
-    "p_bayes_raw": 0.0322,
-    "p_transition": 0.55,
-    "price": 4.13202,
-    "atr": 0.217668,
-    "action": "BUY",
-    "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
-    "coin": "origintrail",
-    "timestamp": "2026-07-18T12:05:21.984802",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.6028,
-    "p_bayes_raw": 0.2412,
-    "p_transition": 0.5591,
-    "price": 0.259854,
-    "atr": 0.021337,
-    "action": "STRONG BUY",
-    "regime": "chop",
-    "outcome": 1,
-    "resolved_at": "2026-07-20T13:22:39.627776",
-    "mfe_atr": 2.53,
-    "mae_atr": -0.111
-  },
-  {
-    "coin": "zcash",
-    "timestamp": "2026-07-18T12:05:25.942169",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.8651,
-    "p_bayes_raw": 0.9986,
-    "p_transition": 0.6887,
-    "price": 544.343613,
-    "atr": 42.467173,
-    "action": "STRONG BUY",
-    "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
-    "coin": "dogecoin",
-    "timestamp": "2026-07-18T12:05:29.999164",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.6217,
-    "p_bayes_raw": 0.0777,
-    "p_transition": 0.5,
-    "price": 0.072247,
-    "atr": 0.002726,
-    "action": "BUY",
-    "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
-    "coin": "avalanche-2",
-    "timestamp": "2026-07-18T12:05:33.917615",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.6915,
-    "p_bayes_raw": 0.559,
-    "p_transition": 0.6853,
-    "price": 6.541513,
-    "atr": 0.273382,
-    "action": "STRONG BUY",
-    "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
-    "coin": "solana",
-    "timestamp": "2026-07-18T12:05:37.844003",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.6053,
-    "p_bayes_raw": 0.1649,
-    "p_transition": 0.4948,
-    "price": 74.964616,
-    "atr": 3.092853,
-    "action": "BUY",
-    "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
-    "coin": "ethereum",
-    "timestamp": "2026-07-18T12:05:44.086093",
-    "ml_proba": 0.5,
-    "bayes_prob": 0.7606,
-    "p_bayes_raw": 0.8093,
-    "p_transition": 0.5,
-    "price": 1845.725,
-    "atr": 75.230393,
-    "action": "STRONG BUY",
-    "regime": "range",
-    "outcome": null,
-    "resolved_at": null
-  },
-  {
     "coin": "litecoin",
     "timestamp": "2026-07-18T12:05:50.539959",
     "ml_proba": 0.5,
@@ -306,8 +24,10 @@
     "atr": 0.03415,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.827941",
+    "mfe_atr": -2.221,
+    "mae_atr": -2.221
   },
   {
     "coin": "chainlink",
@@ -362,8 +82,10 @@
     "atr": 0.004459,
     "action": "STRONG BUY",
     "regime": "range",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.828207",
+    "mfe_atr": -2.468,
+    "mae_atr": -2.468
   },
   {
     "coin": "cardano",
@@ -404,8 +126,10 @@
     "atr": 0.019263,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.828394",
+    "mfe_atr": -1.59,
+    "mae_atr": -1.59
   },
   {
     "coin": "near",
@@ -418,8 +142,10 @@
     "atr": 0.125582,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.828470",
+    "mfe_atr": -2.011,
+    "mae_atr": -2.011
   },
   {
     "coin": "ordinals",
@@ -476,8 +202,10 @@
     "atr": 0.033283,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.828647",
+    "mfe_atr": -1.461,
+    "mae_atr": -2.346
   },
   {
     "coin": "monero",
@@ -548,8 +276,10 @@
     "atr": 0.000677,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.828888",
+    "mfe_atr": -1.145,
+    "mae_atr": -2.411
   },
   {
     "coin": "ribbita-by-virtuals",
@@ -590,8 +320,10 @@
     "atr": 0.003611,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.829071",
+    "mfe_atr": -2.471,
+    "mae_atr": -2.471
   },
   {
     "coin": "internet-computer",
@@ -618,8 +350,10 @@
     "atr": 0.01835,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.829160",
+    "mfe_atr": -0.987,
+    "mae_atr": -1.532
   },
   {
     "coin": "okb",
@@ -632,8 +366,10 @@
     "atr": 1.962643,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.829207",
+    "mfe_atr": 2.773,
+    "mae_atr": 2.773
   },
   {
     "coin": "quant-network",
@@ -646,8 +382,10 @@
     "atr": 2.22034,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.829257",
+    "mfe_atr": -1.671,
+    "mae_atr": -1.671
   },
   {
     "coin": "just",
@@ -674,8 +412,10 @@
     "atr": 0.001979,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.829340",
+    "mfe_atr": -1.83,
+    "mae_atr": -1.83
   },
   {
     "coin": "neo",
@@ -688,8 +428,10 @@
     "atr": 0.06327,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.829389",
+    "mfe_atr": -0.87,
+    "mae_atr": -2.467
   },
   {
     "coin": "apecoin",
@@ -774,8 +516,10 @@
     "atr": 0.002112,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.829574",
+    "mfe_atr": 2.663,
+    "mae_atr": 1.379
   },
   {
     "coin": "venice-token",
@@ -802,8 +546,10 @@
     "atr": 0.035397,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.829657",
+    "mfe_atr": -2.401,
+    "mae_atr": -2.401
   },
   {
     "coin": "worldcoin-wld",
@@ -816,8 +562,10 @@
     "atr": 0.036502,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.829706",
+    "mfe_atr": -1.632,
+    "mae_atr": -1.632
   },
   {
     "coin": "bitway",
@@ -830,8 +578,10 @@
     "atr": 0.010257,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.829754",
+    "mfe_atr": 3.624,
+    "mae_atr": 1.818
   },
   {
     "coin": "lighter",
@@ -858,8 +608,10 @@
     "atr": 0.017643,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.829837",
+    "mfe_atr": -2.077,
+    "mae_atr": -2.077
   },
   {
     "coin": "morpho",
@@ -928,8 +680,10 @@
     "atr": 0.090545,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.830048",
+    "mfe_atr": 4.291,
+    "mae_atr": 4.291
   },
   {
     "coin": "dexe",
@@ -972,8 +726,10 @@
     "atr": 0.174134,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.830128",
+    "mfe_atr": 2.774,
+    "mae_atr": 2.247
   },
   {
     "coin": "pancakeswap-token",
@@ -1028,8 +784,10 @@
     "atr": 0.002959,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.830268",
+    "mfe_atr": -2.554,
+    "mae_atr": -2.554
   },
   {
     "coin": "aave",
@@ -1102,8 +860,10 @@
     "atr": 1.389291,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.830374",
+    "mfe_atr": -2.002,
+    "mae_atr": -2.002
   },
   {
     "coin": "tron",
@@ -1130,8 +890,10 @@
     "atr": 0.175168,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.830451",
+    "mfe_atr": -1.362,
+    "mae_atr": -2.178
   },
   {
     "coin": "origintrail",
@@ -1220,8 +982,10 @@
     "atr": 0.030429,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.830554",
+    "mfe_atr": -2.109,
+    "mae_atr": -2.109
   },
   {
     "coin": "chainlink",
@@ -1276,8 +1040,10 @@
     "atr": 0.003845,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.830688",
+    "mfe_atr": -2.518,
+    "mae_atr": -2.518
   },
   {
     "coin": "ethena",
@@ -1306,8 +1072,10 @@
     "atr": 0.208472,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.830733",
+    "mfe_atr": -1.47,
+    "mae_atr": -1.706
   },
   {
     "coin": "ondo-finance",
@@ -1336,8 +1104,10 @@
     "atr": 0.014291,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.830777",
+    "mfe_atr": 0.1,
+    "mae_atr": -1.567
   },
   {
     "coin": "hyperliquid",
@@ -1350,8 +1120,10 @@
     "atr": 3.450397,
     "action": "BUY",
     "regime": "range",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.830823",
+    "mfe_atr": -1.636,
+    "mae_atr": -1.636
   },
   {
     "coin": "monero",
@@ -1468,8 +1240,10 @@
     "atr": 0.011482,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.831049",
+    "mfe_atr": -0.417,
+    "mae_atr": -1.613
   },
   {
     "coin": "basic-attention-token",
@@ -1482,8 +1256,10 @@
     "atr": 0.003217,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.831097",
+    "mfe_atr": -2.448,
+    "mae_atr": -2.448
   },
   {
     "coin": "internet-computer",
@@ -1510,8 +1286,10 @@
     "atr": 0.015312,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.831171",
+    "mfe_atr": -1.082,
+    "mae_atr": -1.735
   },
   {
     "coin": "okb",
@@ -1524,8 +1302,10 @@
     "atr": 1.666686,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.831215",
+    "mfe_atr": 3.456,
+    "mae_atr": 3.456
   },
   {
     "coin": "quant-network",
@@ -1538,8 +1318,10 @@
     "atr": 1.876641,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.831258",
+    "mfe_atr": -1.832,
+    "mae_atr": -1.832
   },
   {
     "coin": "just",
@@ -1566,8 +1348,10 @@
     "atr": 0.001607,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.831332",
+    "mfe_atr": -2.161,
+    "mae_atr": -2.161
   },
   {
     "coin": "neo",
@@ -1596,8 +1380,10 @@
     "atr": 0.008169,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.831375",
+    "mfe_atr": 0.849,
+    "mae_atr": -1.545
   },
   {
     "coin": "crypto-com-chain",
@@ -1610,8 +1396,10 @@
     "atr": 0.002456,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.831422",
+    "mfe_atr": -1.349,
+    "mae_atr": -1.752
   },
   {
     "coin": "sky",
@@ -1682,8 +1470,10 @@
     "atr": 0.030357,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.831561",
+    "mfe_atr": -3.055,
+    "mae_atr": -3.055
   },
   {
     "coin": "worldcoin-wld",
@@ -1696,8 +1486,10 @@
     "atr": 0.031871,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.831606",
+    "mfe_atr": -1.652,
+    "mae_atr": -1.652
   },
   {
     "coin": "bitway",
@@ -1710,8 +1502,10 @@
     "atr": 0.009327,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.831649",
+    "mfe_atr": 2.595,
+    "mae_atr": 2.595
   },
   {
     "coin": "eigenlayer",
@@ -1724,8 +1518,10 @@
     "atr": 0.015114,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.831737",
+    "mfe_atr": -2.293,
+    "mae_atr": -2.293
   },
   {
     "coin": "morpho",
@@ -1766,8 +1562,10 @@
     "atr": 0.001532,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.831844",
+    "mfe_atr": 2.689,
+    "mae_atr": 1.105
   },
   {
     "coin": "railgun",
@@ -1840,8 +1638,10 @@
     "atr": 0.150333,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.831980",
+    "mfe_atr": 2.6,
+    "mae_atr": 2.6
   },
   {
     "coin": "lido-dao",
@@ -1870,8 +1670,10 @@
     "atr": 0.002384,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832026",
+    "mfe_atr": -2.995,
+    "mae_atr": -2.995
   },
   {
     "coin": "aave",
@@ -1884,8 +1686,10 @@
     "atr": 4.791902,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.832071",
+    "mfe_atr": 2.525,
+    "mae_atr": 2.525
   },
   {
     "coin": "algorand",
@@ -1898,8 +1702,10 @@
     "atr": 0.002916,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832114",
+    "mfe_atr": -0.741,
+    "mae_atr": -1.667
   },
   {
     "coin": "raydium",
@@ -1944,8 +1750,10 @@
     "atr": 1.306842,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832159",
+    "mfe_atr": -2.014,
+    "mae_atr": -2.014
   },
   {
     "coin": "zencash",
@@ -1958,8 +1766,10 @@
     "atr": 0.163458,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832202",
+    "mfe_atr": -1.047,
+    "mae_atr": -1.922
   },
   {
     "coin": "origintrail",
@@ -1988,8 +1798,10 @@
     "atr": 33.391871,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832246",
+    "mfe_atr": -2.088,
+    "mae_atr": -2.088
   },
   {
     "coin": "dogecoin",
@@ -2046,8 +1858,10 @@
     "atr": 1.211601,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832350",
+    "mfe_atr": -0.327,
+    "mae_atr": -1.967
   },
   {
     "coin": "polkadot",
@@ -2060,8 +1874,10 @@
     "atr": 0.029224,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832393",
+    "mfe_atr": -1.711,
+    "mae_atr": -1.711
   },
   {
     "coin": "chainlink",
@@ -2116,8 +1932,10 @@
     "atr": 0.003612,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832525",
+    "mfe_atr": -2.604,
+    "mae_atr": -2.604
   },
   {
     "coin": "cardano",
@@ -2158,8 +1976,10 @@
     "atr": 0.101661,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832629",
+    "mfe_atr": -3.137,
+    "mae_atr": -3.137
   },
   {
     "coin": "ordinals",
@@ -2172,8 +1992,10 @@
     "atr": 0.203142,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832674",
+    "mfe_atr": -1.196,
+    "mae_atr": -1.534
   },
   {
     "coin": "ondo-finance",
@@ -2202,8 +2024,10 @@
     "atr": 0.013333,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832719",
+    "mfe_atr": 0.012,
+    "mae_atr": -1.775
   },
   {
     "coin": "filecoin",
@@ -2230,8 +2054,10 @@
     "atr": 3.24044,
     "action": "STRONG BUY",
     "regime": "range",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.832792",
+    "mfe_atr": -1.905,
+    "mae_atr": -1.905
   },
   {
     "coin": "monero",
@@ -2244,8 +2070,10 @@
     "atr": 10.623486,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.832837",
+    "mfe_atr": 2.533,
+    "mae_atr": 0.587
   },
   {
     "coin": "shiba-inu",
@@ -2348,8 +2176,10 @@
     "atr": 0.003093,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.833000",
+    "mfe_atr": -2.063,
+    "mae_atr": -2.063
   },
   {
     "coin": "internet-computer",
@@ -2376,8 +2206,10 @@
     "atr": 0.014487,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.833078",
+    "mfe_atr": -1.54,
+    "mae_atr": -1.54
   },
   {
     "coin": "okb",
@@ -2390,8 +2222,10 @@
     "atr": 1.611397,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.833122",
+    "mfe_atr": 3.465,
+    "mae_atr": 3.465
   },
   {
     "coin": "quant-network",
@@ -2404,8 +2238,10 @@
     "atr": 1.804591,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.833165",
+    "mfe_atr": -1.596,
+    "mae_atr": -1.596
   },
   {
     "coin": "just",
@@ -2446,8 +2282,10 @@
     "atr": 0.001597,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.833269",
+    "mfe_atr": -1.248,
+    "mae_atr": -1.931
   },
   {
     "coin": "neo",
@@ -2460,8 +2298,10 @@
     "atr": 0.06063,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.833312",
+    "mfe_atr": -1.278,
+    "mae_atr": -2.945
   },
   {
     "coin": "apecoin",
@@ -2502,8 +2342,10 @@
     "atr": 0.002699,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.833415",
+    "mfe_atr": -1.113,
+    "mae_atr": -1.697
   },
   {
     "coin": "spx6900",
@@ -2516,8 +2358,10 @@
     "atr": 0.02381,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.833461",
+    "mfe_atr": -1.033,
+    "mae_atr": -1.566
   },
   {
     "coin": "plasma",
@@ -2558,8 +2402,10 @@
     "atr": 0.001468,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.833567",
+    "mfe_atr": 3.87,
+    "mae_atr": 2.023
   },
   {
     "coin": "venice-token",
@@ -2586,8 +2432,10 @@
     "atr": 0.029846,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.833642",
+    "mfe_atr": -2.505,
+    "mae_atr": -2.505
   },
   {
     "coin": "bitway",
@@ -2600,8 +2448,10 @@
     "atr": 0.008839,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.833686",
+    "mfe_atr": 2.506,
+    "mae_atr": 2.506
   },
   {
     "coin": "eigenlayer",
@@ -2614,8 +2464,10 @@
     "atr": 0.014546,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.833742",
+    "mfe_atr": -2.725,
+    "mae_atr": -2.725
   },
   {
     "coin": "morpho",
@@ -2656,8 +2508,10 @@
     "atr": 0.001422,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.833846",
+    "mfe_atr": 2.528,
+    "mae_atr": 1.176
   },
   {
     "coin": "railgun",
@@ -2744,8 +2598,10 @@
     "atr": 0.14035,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.834009",
+    "mfe_atr": 2.859,
+    "mae_atr": 2.859
   },
   {
     "coin": "pancakeswap-token",
@@ -2816,8 +2672,10 @@
     "atr": 0.002202,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834145",
+    "mfe_atr": -3.557,
+    "mae_atr": -3.557
   },
   {
     "coin": "aave",
@@ -2844,8 +2702,10 @@
     "atr": 1e-06,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834223",
+    "mfe_atr": -1.158,
+    "mae_atr": -1.684
   },
   {
     "coin": "algorand",
@@ -2858,8 +2718,10 @@
     "atr": 0.00281,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834266",
+    "mfe_atr": -1.635,
+    "mae_atr": -1.635
   },
   {
     "coin": "raydium",
@@ -2904,8 +2766,10 @@
     "atr": 1.232552,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834309",
+    "mfe_atr": -2.499,
+    "mae_atr": -2.499
   },
   {
     "coin": "tron",
@@ -2932,8 +2796,10 @@
     "atr": 0.154102,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834381",
+    "mfe_atr": -1.583,
+    "mae_atr": -1.583
   },
   {
     "coin": "origintrail",
@@ -2962,8 +2828,10 @@
     "atr": 30.607549,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834424",
+    "mfe_atr": -2.492,
+    "mae_atr": -2.492
   },
   {
     "coin": "dogecoin",
@@ -3148,8 +3016,10 @@
     "atr": 0.007651,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834530",
+    "mfe_atr": -1.741,
+    "mae_atr": -1.741
   },
   {
     "coin": "ethena",
@@ -3178,8 +3048,10 @@
     "atr": 0.01388,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834573",
+    "mfe_atr": -2.004,
+    "mae_atr": -2.004
   },
   {
     "coin": "near",
@@ -3192,8 +3064,10 @@
     "atr": 0.095234,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834615",
+    "mfe_atr": -3.47,
+    "mae_atr": -3.47
   },
   {
     "coin": "immutable-x",
@@ -3206,8 +3080,10 @@
     "atr": 0.005402,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834660",
+    "mfe_atr": -2.688,
+    "mae_atr": -2.688
   },
   {
     "coin": "ordinals",
@@ -3220,8 +3096,10 @@
     "atr": 0.195399,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834703",
+    "mfe_atr": -1.733,
+    "mae_atr": -1.733
   },
   {
     "coin": "ondo-finance",
@@ -3250,8 +3128,10 @@
     "atr": 0.012939,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834745",
+    "mfe_atr": -0.616,
+    "mae_atr": -2.457
   },
   {
     "coin": "filecoin",
@@ -3264,8 +3144,10 @@
     "atr": 0.028394,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.834787",
+    "mfe_atr": -1.442,
+    "mae_atr": -2.479
   },
   {
     "coin": "hyperliquid",
@@ -3440,8 +3322,10 @@
     "atr": 0.002936,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835062",
+    "mfe_atr": -2.839,
+    "mae_atr": -2.839
   },
   {
     "coin": "internet-computer",
@@ -3454,8 +3338,10 @@
     "atr": 0.080533,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835107",
+    "mfe_atr": -1.332,
+    "mae_atr": -2.076
   },
   {
     "coin": "mantle",
@@ -3484,8 +3370,10 @@
     "atr": 1.594492,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.835150",
+    "mfe_atr": 2.598,
+    "mae_atr": 2.598
   },
   {
     "coin": "just",
@@ -3512,8 +3400,10 @@
     "atr": 0.02265,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835222",
+    "mfe_atr": -1.119,
+    "mae_atr": -2.18
   },
   {
     "coin": "conflux-token",
@@ -3526,8 +3416,10 @@
     "atr": 0.001495,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835265",
+    "mfe_atr": -1.824,
+    "mae_atr": -1.824
   },
   {
     "coin": "neo",
@@ -3540,8 +3432,10 @@
     "atr": 0.056693,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835307",
+    "mfe_atr": -1.907,
+    "mae_atr": -1.907
   },
   {
     "coin": "apecoin",
@@ -3568,8 +3462,10 @@
     "atr": 0.007234,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835379",
+    "mfe_atr": -1.589,
+    "mae_atr": -1.589
   },
   {
     "coin": "crypto-com-chain",
@@ -3582,8 +3478,10 @@
     "atr": 0.00231,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835421",
+    "mfe_atr": -1.255,
+    "mae_atr": -1.683
   },
   {
     "coin": "sky",
@@ -3612,8 +3510,10 @@
     "atr": 0.007128,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835464",
+    "mfe_atr": -0.331,
+    "mae_atr": -1.779
   },
   {
     "coin": "grass",
@@ -3626,8 +3526,10 @@
     "atr": 0.036255,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835507",
+    "mfe_atr": -1.1,
+    "mae_atr": -1.598
   },
   {
     "coin": "flying-tulip",
@@ -3672,8 +3574,10 @@
     "atr": 0.030167,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835550",
+    "mfe_atr": -3.646,
+    "mae_atr": -3.646
   },
   {
     "coin": "worldcoin-wld",
@@ -3686,8 +3590,10 @@
     "atr": 0.029617,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835592",
+    "mfe_atr": -2.173,
+    "mae_atr": -2.173
   },
   {
     "coin": "bitway",
@@ -3700,8 +3606,10 @@
     "atr": 0.008264,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.835633",
+    "mfe_atr": 2.775,
+    "mae_atr": 2.775
   },
   {
     "coin": "lighter",
@@ -3714,8 +3622,10 @@
     "atr": 0.178318,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835676",
+    "mfe_atr": -0.088,
+    "mae_atr": -1.572
   },
   {
     "coin": "eigenlayer",
@@ -3772,8 +3682,10 @@
     "atr": 0.001371,
     "action": "STRONG BUY",
     "regime": "range",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.835777",
+    "mfe_atr": 3.152,
+    "mae_atr": 1.75
   },
   {
     "coin": "railgun",
@@ -3862,8 +3774,10 @@
     "atr": 0.141862,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.835880",
+    "mfe_atr": 5.296,
+    "mae_atr": 1.473
   },
   {
     "coin": "pancakeswap-token",
@@ -3922,8 +3836,10 @@
     "atr": 0.002132,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.835979",
+    "mfe_atr": -2.844,
+    "mae_atr": -2.844
   },
   {
     "coin": "aave",
@@ -3950,8 +3866,10 @@
     "atr": 1e-06,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836054",
+    "mfe_atr": -1.158,
+    "mae_atr": -1.684
   },
   {
     "coin": "raydium",
@@ -3996,8 +3914,10 @@
     "atr": 1.326282,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836098",
+    "mfe_atr": -1.498,
+    "mae_atr": -2.838
   },
   {
     "coin": "tron",
@@ -4024,8 +3944,10 @@
     "atr": 0.157561,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836170",
+    "mfe_atr": -1.179,
+    "mae_atr": -2.086
   },
   {
     "coin": "origintrail",
@@ -4052,8 +3974,10 @@
     "atr": 33.441738,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836245",
+    "mfe_atr": -1.301,
+    "mae_atr": -1.676
   },
   {
     "coin": "dogecoin",
@@ -4108,8 +4032,10 @@
     "atr": 1518.947129,
     "action": "STRONG BUY",
     "regime": "range",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836380",
+    "mfe_atr": -0.624,
+    "mae_atr": -1.912
   },
   {
     "coin": "litecoin",
@@ -4122,8 +4048,10 @@
     "atr": 1.440462,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836424",
+    "mfe_atr": -0.24,
+    "mae_atr": -1.62
   },
   {
     "coin": "polkadot",
@@ -4136,8 +4064,10 @@
     "atr": 0.034214,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836467",
+    "mfe_atr": -2.147,
+    "mae_atr": -2.147
   },
   {
     "coin": "chainlink",
@@ -4150,8 +4080,10 @@
     "atr": 0.300849,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836509",
+    "mfe_atr": -0.459,
+    "mae_atr": -1.716
   },
   {
     "coin": "binancecoin",
@@ -4178,8 +4110,10 @@
     "atr": 0.038634,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836583",
+    "mfe_atr": -1.704,
+    "mae_atr": -1.704
   },
   {
     "coin": "arbitrum",
@@ -4192,8 +4126,10 @@
     "atr": 0.004098,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836626",
+    "mfe_atr": -2.4,
+    "mae_atr": -2.4
   },
   {
     "coin": "cardano",
@@ -4236,8 +4172,10 @@
     "atr": 0.109618,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836698",
+    "mfe_atr": -2.081,
+    "mae_atr": -2.081
   },
   {
     "coin": "immutable-x",
@@ -4250,8 +4188,10 @@
     "atr": 0.005647,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836741",
+    "mfe_atr": -2.308,
+    "mae_atr": -2.308
   },
   {
     "coin": "ordinals",
@@ -4294,8 +4234,10 @@
     "atr": 0.013886,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836812",
+    "mfe_atr": -0.231,
+    "mae_atr": -1.946
   },
   {
     "coin": "filecoin",
@@ -4308,8 +4250,10 @@
     "atr": 0.035848,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836854",
+    "mfe_atr": -1.586,
+    "mae_atr": -1.586
   },
   {
     "coin": "hyperliquid",
@@ -4322,8 +4266,10 @@
     "atr": 3.530609,
     "action": "STRONG BUY",
     "regime": "range",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.836896",
+    "mfe_atr": -0.769,
+    "mae_atr": -1.715
   },
   {
     "coin": "monero",
@@ -4396,8 +4342,10 @@
     "atr": 0.008347,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837026",
+    "mfe_atr": -0.831,
+    "mae_atr": -1.745
   },
   {
     "coin": "centrifuge",
@@ -4426,8 +4374,10 @@
     "atr": 0.000701,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837072",
+    "mfe_atr": -1.53,
+    "mae_atr": -1.53
   },
   {
     "coin": "ribbita-by-virtuals",
@@ -4468,8 +4418,10 @@
     "atr": 0.072645,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837178",
+    "mfe_atr": -1.339,
+    "mae_atr": -2.213
   },
   {
     "coin": "aerodrome-finance",
@@ -4496,8 +4448,10 @@
     "atr": 0.003353,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837250",
+    "mfe_atr": -2.53,
+    "mae_atr": -2.53
   },
   {
     "coin": "internet-computer",
@@ -4524,8 +4478,10 @@
     "atr": 0.000109,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837326",
+    "mfe_atr": -1.893,
+    "mae_atr": -1.893
   },
   {
     "coin": "shuffle-2",
@@ -4554,8 +4510,10 @@
     "atr": 0.014814,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837370",
+    "mfe_atr": -1.449,
+    "mae_atr": -1.866
   },
   {
     "coin": "okb",
@@ -4568,8 +4526,10 @@
     "atr": 1.855288,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.837413",
+    "mfe_atr": 2.571,
+    "mae_atr": 2.081
   },
   {
     "coin": "quant-network",
@@ -4582,8 +4542,10 @@
     "atr": 1.854558,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837455",
+    "mfe_atr": -2.022,
+    "mae_atr": -2.022
   },
   {
     "coin": "just",
@@ -4610,8 +4572,10 @@
     "atr": 0.026543,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837526",
+    "mfe_atr": -0.619,
+    "mae_atr": -1.524
   },
   {
     "coin": "conflux-token",
@@ -4624,8 +4588,10 @@
     "atr": 0.001719,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837568",
+    "mfe_atr": -1.905,
+    "mae_atr": -1.905
   },
   {
     "coin": "telcoin",
@@ -4652,8 +4618,10 @@
     "atr": 0.073518,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837643",
+    "mfe_atr": -1.56,
+    "mae_atr": -1.56
   },
   {
     "coin": "apecoin",
@@ -4666,8 +4634,10 @@
     "atr": 0.008443,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837686",
+    "mfe_atr": 0.661,
+    "mae_atr": -1.581
   },
   {
     "coin": "safepal",
@@ -4680,8 +4650,10 @@
     "atr": 0.008402,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837729",
+    "mfe_atr": -1.746,
+    "mae_atr": -1.746
   },
   {
     "coin": "crypto-com-chain",
@@ -4724,8 +4696,10 @@
     "atr": 0.025178,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837801",
+    "mfe_atr": -1.061,
+    "mae_atr": -1.564
   },
   {
     "coin": "plasma",
@@ -4752,8 +4726,10 @@
     "atr": 0.037822,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837874",
+    "mfe_atr": -1.356,
+    "mae_atr": -1.833
   },
   {
     "coin": "venice-token",
@@ -4780,8 +4756,10 @@
     "atr": 0.000538,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.837975",
+    "mfe_atr": -1.63,
+    "mae_atr": -1.63
   },
   {
     "coin": "akash-network",
@@ -4794,8 +4772,10 @@
     "atr": 0.033935,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838020",
+    "mfe_atr": -2.667,
+    "mae_atr": -2.667
   },
   {
     "coin": "worldcoin-wld",
@@ -4808,8 +4788,10 @@
     "atr": 0.031983,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838064",
+    "mfe_atr": -1.949,
+    "mae_atr": -1.949
   },
   {
     "coin": "bitway",
@@ -4822,8 +4804,10 @@
     "atr": 0.010044,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.838108",
+    "mfe_atr": 3.365,
+    "mae_atr": 1.521
   },
   {
     "coin": "lighter",
@@ -4850,8 +4834,10 @@
     "atr": 0.014912,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838181",
+    "mfe_atr": -2.59,
+    "mae_atr": -2.59
   },
   {
     "coin": "morpho",
@@ -4906,8 +4892,10 @@
     "atr": 0.156931,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838311",
+    "mfe_atr": -1.557,
+    "mae_atr": -1.557
   },
   {
     "coin": "kaito",
@@ -5012,8 +5000,10 @@
     "atr": 1.581411,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838418",
+    "mfe_atr": -0.525,
+    "mae_atr": -1.591
   },
   {
     "coin": "pyth-network",
@@ -5026,8 +5016,10 @@
     "atr": 0.002487,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838472",
+    "mfe_atr": -2.786,
+    "mae_atr": -2.786
   },
   {
     "coin": "aave",
@@ -5068,8 +5060,10 @@
     "atr": 0.00276,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838595",
+    "mfe_atr": -0.917,
+    "mae_atr": -1.895
   },
   {
     "coin": "bonk",
@@ -5098,8 +5092,10 @@
     "atr": 1.300616,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838637",
+    "mfe_atr": -1.529,
+    "mae_atr": -1.529
   },
   {
     "coin": "tron",
@@ -5126,8 +5122,10 @@
     "atr": 0.157255,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838709",
+    "mfe_atr": -0.727,
+    "mae_atr": -1.637
   },
   {
     "coin": "origintrail",
@@ -5154,8 +5152,10 @@
     "atr": 30.999456,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838781",
+    "mfe_atr": -1.297,
+    "mae_atr": -1.702
   },
   {
     "coin": "dogecoin",
@@ -5224,8 +5224,10 @@
     "atr": 1.248901,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.838974",
+    "mfe_atr": -0.509,
+    "mae_atr": -2.1
   },
   {
     "coin": "polkadot",
@@ -5238,8 +5240,10 @@
     "atr": 0.030366,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839020",
+    "mfe_atr": -1.756,
+    "mae_atr": -1.756
   },
   {
     "coin": "chainlink",
@@ -5252,8 +5256,10 @@
     "atr": 0.259249,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839063",
+    "mfe_atr": -0.236,
+    "mae_atr": -1.695
   },
   {
     "coin": "binancecoin",
@@ -5280,8 +5286,10 @@
     "atr": 0.032757,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839137",
+    "mfe_atr": -1.543,
+    "mae_atr": -1.543
   },
   {
     "coin": "arbitrum",
@@ -5294,8 +5302,10 @@
     "atr": 0.003731,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839179",
+    "mfe_atr": -2.139,
+    "mae_atr": -2.139
   },
   {
     "coin": "cardano",
@@ -5338,8 +5348,10 @@
     "atr": 0.098807,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839251",
+    "mfe_atr": -2.21,
+    "mae_atr": -2.21
   },
   {
     "coin": "immutable-x",
@@ -5352,8 +5364,10 @@
     "atr": 0.005227,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839294",
+    "mfe_atr": -2.058,
+    "mae_atr": -2.058
   },
   {
     "coin": "fartcoin",
@@ -5380,8 +5394,10 @@
     "atr": 0.201853,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839369",
+    "mfe_atr": -1.427,
+    "mae_atr": -1.671
   },
   {
     "coin": "ondo-finance",
@@ -5410,8 +5426,10 @@
     "atr": 0.012954,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839412",
+    "mfe_atr": -0.37,
+    "mae_atr": -2.208
   },
   {
     "coin": "filecoin",
@@ -5424,8 +5442,10 @@
     "atr": 0.031579,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839455",
+    "mfe_atr": -0.814,
+    "mae_atr": -1.747
   },
   {
     "coin": "hyperliquid",
@@ -5438,8 +5458,10 @@
     "atr": 3.12986,
     "action": "BUY",
     "regime": "range",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839497",
+    "mfe_atr": -1.234,
+    "mae_atr": -1.649
   },
   {
     "coin": "monero",
@@ -5496,8 +5518,10 @@
     "atr": 0.008177,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839599",
+    "mfe_atr": -1.024,
+    "mae_atr": -1.957
   },
   {
     "coin": "centrifuge",
@@ -5526,8 +5550,10 @@
     "atr": 0.000615,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839643",
+    "mfe_atr": -1.787,
+    "mae_atr": -1.787
   },
   {
     "coin": "ribbita-by-virtuals",
@@ -5568,8 +5594,10 @@
     "atr": 0.070096,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839745",
+    "mfe_atr": -1.227,
+    "mae_atr": -2.133
   },
   {
     "coin": "basic-attention-token",
@@ -5582,8 +5610,10 @@
     "atr": 0.002968,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839788",
+    "mfe_atr": -2.522,
+    "mae_atr": -2.522
   },
   {
     "coin": "internet-computer",
@@ -5610,8 +5640,10 @@
     "atr": 9.7e-05,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839859",
+    "mfe_atr": -1.601,
+    "mae_atr": -1.601
   },
   {
     "coin": "shuffle-2",
@@ -5670,8 +5702,10 @@
     "atr": 1.702726,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.839956",
+    "mfe_atr": -1.333,
+    "mae_atr": -1.734
   },
   {
     "coin": "just",
@@ -5698,8 +5732,10 @@
     "atr": 0.023414,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840035",
+    "mfe_atr": -1.28,
+    "mae_atr": -2.306
   },
   {
     "coin": "conflux-token",
@@ -5712,8 +5748,10 @@
     "atr": 0.001573,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840078",
+    "mfe_atr": -2.284,
+    "mae_atr": -2.284
   },
   {
     "coin": "telcoin",
@@ -5740,8 +5778,10 @@
     "atr": 0.059966,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840149",
+    "mfe_atr": -2.135,
+    "mae_atr": -2.135
   },
   {
     "coin": "apecoin",
@@ -5754,8 +5794,10 @@
     "atr": 0.007749,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840192",
+    "mfe_atr": 0.372,
+    "mae_atr": -2.07
   },
   {
     "coin": "safepal",
@@ -5768,8 +5810,10 @@
     "atr": 0.00709,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840233",
+    "mfe_atr": -1.674,
+    "mae_atr": -1.674
   },
   {
     "coin": "crypto-com-chain",
@@ -5796,8 +5840,10 @@
     "atr": 0.002733,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840303",
+    "mfe_atr": -1.274,
+    "mae_atr": -1.591
   },
   {
     "coin": "midnight-3",
@@ -5838,8 +5884,10 @@
     "atr": 0.01248,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840411",
+    "mfe_atr": -1.748,
+    "mae_atr": -1.748
   },
   {
     "coin": "grass",
@@ -5852,8 +5900,10 @@
     "atr": 0.033496,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840455",
+    "mfe_atr": -1.073,
+    "mae_atr": -1.611
   },
   {
     "coin": "flying-tulip",
@@ -5896,8 +5946,10 @@
     "atr": 0.000483,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840528",
+    "mfe_atr": -0.867,
+    "mae_atr": -1.741
   },
   {
     "coin": "akash-network",
@@ -5910,8 +5962,10 @@
     "atr": 0.030158,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840569",
+    "mfe_atr": -2.71,
+    "mae_atr": -2.71
   },
   {
     "coin": "worldcoin-wld",
@@ -5924,8 +5978,10 @@
     "atr": 0.02893,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840611",
+    "mfe_atr": -2.075,
+    "mae_atr": -2.075
   },
   {
     "coin": "bitway",
@@ -5938,8 +5994,10 @@
     "atr": 0.008755,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.840652",
+    "mfe_atr": 2.646,
+    "mae_atr": 2.646
   },
   {
     "coin": "lighter",
@@ -6038,8 +6096,10 @@
     "atr": 0.07906,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.840838",
+    "mfe_atr": 2.598,
+    "mae_atr": 2.092
   },
   {
     "coin": "dexe",
@@ -6128,8 +6188,10 @@
     "atr": 1.336036,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.840966",
+    "mfe_atr": -0.318,
+    "mae_atr": -1.58
   },
   {
     "coin": "pyth-network",
@@ -6142,8 +6204,10 @@
     "atr": 0.002326,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841012",
+    "mfe_atr": -2.814,
+    "mae_atr": -2.814
   },
   {
     "coin": "aave",
@@ -6172,8 +6236,10 @@
     "atr": 0.002558,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841057",
+    "mfe_atr": -0.982,
+    "mae_atr": -2.038
   },
   {
     "coin": "bonk",
@@ -6202,8 +6268,10 @@
     "atr": 1.251258,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841101",
+    "mfe_atr": -1.048,
+    "mae_atr": -2.469
   },
   {
     "coin": "tron",
@@ -6216,8 +6284,10 @@
     "atr": 0.00342,
     "action": "STRONG BUY",
     "regime": "range",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841143",
+    "mfe_atr": -1.88,
+    "mae_atr": -1.88
   },
   {
     "coin": "zencash",
@@ -6230,8 +6300,10 @@
     "atr": 0.145877,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841185",
+    "mfe_atr": -0.842,
+    "mae_atr": -1.822
   },
   {
     "coin": "origintrail",
@@ -6328,8 +6400,10 @@
     "atr": 1.197859,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841394",
+    "mfe_atr": -0.026,
+    "mae_atr": -1.685
   },
   {
     "coin": "polkadot",
@@ -6412,8 +6486,10 @@
     "atr": 0.003956,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841579",
+    "mfe_atr": -1.123,
+    "mae_atr": -2.515
   },
   {
     "coin": "story-2",
@@ -6426,8 +6502,10 @@
     "atr": 0.014275,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841622",
+    "mfe_atr": -2.359,
+    "mae_atr": -2.359
   },
   {
     "coin": "near",
@@ -6440,8 +6518,10 @@
     "atr": 0.093537,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841665",
+    "mfe_atr": -2.241,
+    "mae_atr": -2.241
   },
   {
     "coin": "immutable-x",
@@ -6454,8 +6534,10 @@
     "atr": 0.005013,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841708",
+    "mfe_atr": -2.609,
+    "mae_atr": -2.609
   },
   {
     "coin": "ordinals",
@@ -6468,8 +6550,10 @@
     "atr": 0.184878,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841751",
+    "mfe_atr": -1.388,
+    "mae_atr": -1.655
   },
   {
     "coin": "ondo-finance",
@@ -6498,8 +6582,10 @@
     "atr": 0.012524,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841793",
+    "mfe_atr": -0.724,
+    "mae_atr": -2.625
   },
   {
     "coin": "hyperliquid",
@@ -6512,8 +6598,10 @@
     "atr": 3.070402,
     "action": "STRONG BUY",
     "regime": "range",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841835",
+    "mfe_atr": -0.793,
+    "mae_atr": -1.88
   },
   {
     "coin": "monero",
@@ -6588,8 +6676,10 @@
     "atr": 0.007718,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.841908",
+    "mfe_atr": -1.251,
+    "mae_atr": -2.24
   },
   {
     "coin": "centrifuge",
@@ -6616,8 +6706,10 @@
     "atr": 0.000594,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842010",
+    "mfe_atr": -1.193,
+    "mae_atr": -2.637
   },
   {
     "coin": "ribbita-by-virtuals",
@@ -6658,8 +6750,10 @@
     "atr": 0.068181,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842114",
+    "mfe_atr": -0.857,
+    "mae_atr": -1.788
   },
   {
     "coin": "basic-attention-token",
@@ -6672,8 +6766,10 @@
     "atr": 0.002887,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842156",
+    "mfe_atr": -2.953,
+    "mae_atr": -2.953
   },
   {
     "coin": "internet-computer",
@@ -6730,8 +6826,10 @@
     "atr": 1.548221,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.842257",
+    "mfe_atr": 2.695,
+    "mae_atr": 2.695
   },
   {
     "coin": "just",
@@ -6758,8 +6856,10 @@
     "atr": 0.021886,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842329",
+    "mfe_atr": -0.845,
+    "mae_atr": -1.943
   },
   {
     "coin": "conflux-token",
@@ -6772,8 +6872,10 @@
     "atr": 0.001531,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842371",
+    "mfe_atr": -1.727,
+    "mae_atr": -1.727
   },
   {
     "coin": "neo",
@@ -6786,8 +6888,10 @@
     "atr": 0.056534,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842413",
+    "mfe_atr": -2.343,
+    "mae_atr": -2.343
   },
   {
     "coin": "apecoin",
@@ -6800,8 +6904,10 @@
     "atr": 0.007172,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842455",
+    "mfe_atr": 0.734,
+    "mae_atr": -1.905
   },
   {
     "coin": "safepal",
@@ -6814,8 +6920,10 @@
     "atr": 0.006883,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842498",
+    "mfe_atr": -1.53,
+    "mae_atr": -1.53
   },
   {
     "coin": "crypto-com-chain",
@@ -6856,8 +6964,10 @@
     "atr": 0.006655,
     "action": "BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842600",
+    "mfe_atr": -0.104,
+    "mae_atr": -1.656
   },
   {
     "coin": "mx-token",
@@ -6870,8 +6980,10 @@
     "atr": 0.011815,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842642",
+    "mfe_atr": -1.902,
+    "mae_atr": -1.902
   },
   {
     "coin": "grass",
@@ -6898,8 +7010,10 @@
     "atr": 0.001992,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.842716",
+    "mfe_atr": 2.651,
+    "mae_atr": 0.582
   },
   {
     "coin": "venice-token",
@@ -6926,8 +7040,10 @@
     "atr": 0.000486,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842790",
+    "mfe_atr": -1.211,
+    "mae_atr": -2.08
   },
   {
     "coin": "akash-network",
@@ -6940,8 +7056,10 @@
     "atr": 0.029084,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842832",
+    "mfe_atr": -2.252,
+    "mae_atr": -2.252
   },
   {
     "coin": "worldcoin-wld",
@@ -6954,8 +7072,10 @@
     "atr": 0.026637,
     "action": "BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.842874",
+    "mfe_atr": -2.104,
+    "mae_atr": -2.104
   },
   {
     "coin": "bitway",
@@ -6968,8 +7088,10 @@
     "atr": 0.008345,
     "action": "STRONG BUY",
     "regime": "bear",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.842935",
+    "mfe_atr": 3.848,
+    "mae_atr": 1.628
   },
   {
     "coin": "lighter",
@@ -7066,8 +7188,10 @@
     "atr": 0.072666,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.843160",
+    "mfe_atr": 3.188,
+    "mae_atr": 3.188
   },
   {
     "coin": "dexe",
@@ -7110,8 +7234,10 @@
     "atr": 0.140994,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 1,
+    "resolved_at": "2026-08-01T12:19:02.843232",
+    "mfe_atr": 4.339,
+    "mae_atr": 0.492
   },
   {
     "coin": "pancakeswap-token",
@@ -7138,8 +7264,10 @@
     "atr": 0.020063,
     "action": "STRONG BUY",
     "regime": "bull_trend",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.843305",
+    "mfe_atr": -1.15,
+    "mae_atr": -1.593
   },
   {
     "coin": "whitebit",
@@ -7182,8 +7310,10 @@
     "atr": 0.00226,
     "action": "STRONG BUY",
     "regime": "chop",
-    "outcome": null,
-    "resolved_at": null
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.843378",
+    "mfe_atr": -2.263,
+    "mae_atr": -2.263
   },
   {
     "coin": "aave",
@@ -7194,6 +7324,286 @@
     "p_transition": 0.5,
     "price": 94.898617,
     "atr": 4.127752,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "binancecoin",
+    "timestamp": "2026-08-01T12:14:12.482890",
+    "ml_proba": 0.273,
+    "bayes_prob": 0.5615,
+    "p_bayes_raw": 0.6084,
+    "p_transition": 0.5,
+    "price": 578.931171,
+    "atr": 11.052538,
+    "action": "BUY",
+    "regime": "bear",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "cardano",
+    "timestamp": "2026-08-01T12:14:24.816071",
+    "ml_proba": 0.5,
+    "bayes_prob": 0.7325,
+    "p_bayes_raw": 0.4818,
+    "p_transition": 0.5,
+    "price": 0.172578,
+    "atr": 0.007714,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "ordinals",
+    "timestamp": "2026-08-01T12:14:49.500328",
+    "ml_proba": 0.256,
+    "bayes_prob": 0.8015,
+    "p_bayes_raw": 0.9954,
+    "p_transition": 0.6803,
+    "price": 3.762714,
+    "atr": 0.234398,
+    "action": "STRONG BUY",
+    "regime": "bear",
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.843508",
+    "mfe_atr": -1.907,
+    "mae_atr": -1.907
+  },
+  {
+    "coin": "ondo-finance",
+    "timestamp": "2026-08-01T12:14:53.689766",
+    "ml_proba": 0.266,
+    "bayes_prob": 0.7325,
+    "p_bayes_raw": 0.8357,
+    "p_transition": 0.7193,
+    "price": 0.385606,
+    "atr": 0.021032,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "monero",
+    "timestamp": "2026-08-01T12:15:10.306080",
+    "ml_proba": 0.389,
+    "bayes_prob": 0.7061,
+    "p_bayes_raw": 0.949,
+    "p_transition": 0.6984,
+    "price": 362.336802,
+    "atr": 10.989331,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.843584",
+    "mfe_atr": -1.881,
+    "mae_atr": -1.881
+  },
+  {
+    "coin": "shiba-inu",
+    "timestamp": "2026-08-01T12:15:14.573624",
+    "ml_proba": 0.5,
+    "bayes_prob": 0.7007,
+    "p_bayes_raw": 0.9884,
+    "p_transition": 0.6402,
+    "price": 5e-06,
+    "atr": 0.0,
+    "action": "STRONG BUY",
+    "regime": "bear",
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.843627",
+    "mfe_atr": 0.0,
+    "mae_atr": 0.0
+  },
+  {
+    "coin": "centrifuge",
+    "timestamp": "2026-08-01T12:15:35.391635",
+    "ml_proba": 0.5,
+    "bayes_prob": 0.7572,
+    "p_bayes_raw": 0.6001,
+    "p_transition": 0.6899,
+    "price": 0.178274,
+    "atr": 0.010161,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "shuffle-2",
+    "timestamp": "2026-08-01T12:16:12.689095",
+    "ml_proba": 0.4433,
+    "bayes_prob": 0.8486,
+    "p_bayes_raw": 0.9998,
+    "p_transition": 0.6839,
+    "price": 0.302781,
+    "atr": 0.01602,
+    "action": "STRONG BUY",
+    "regime": "bear",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "okb",
+    "timestamp": "2026-08-01T12:16:21.117461",
+    "ml_proba": 0.3805,
+    "bayes_prob": 0.7439,
+    "p_bayes_raw": 0.9449,
+    "p_transition": 0.6302,
+    "price": 85.981334,
+    "atr": 1.579659,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "just",
+    "timestamp": "2026-08-01T12:16:29.333421",
+    "ml_proba": 0.5,
+    "bayes_prob": 0.7132,
+    "p_bayes_raw": 0.6533,
+    "p_transition": 0.5,
+    "price": 0.103953,
+    "atr": 0.002665,
+    "action": "BUY",
+    "regime": "chop",
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.843756",
+    "mfe_atr": -1.287,
+    "mae_atr": -1.812
+  },
+  {
+    "coin": "flying-tulip",
+    "timestamp": "2026-08-01T12:17:26.008538",
+    "ml_proba": 0.277,
+    "bayes_prob": 0.7597,
+    "p_bayes_raw": 0.9995,
+    "p_transition": 0.6839,
+    "price": 0.100994,
+    "atr": 0.003298,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.843799",
+    "mfe_atr": -1.814,
+    "mae_atr": -1.814
+  },
+  {
+    "coin": "bitway",
+    "timestamp": "2026-08-01T12:17:45.723714",
+    "ml_proba": 0.381,
+    "bayes_prob": 0.8594,
+    "p_bayes_raw": 0.9974,
+    "p_transition": 0.6702,
+    "price": 0.110577,
+    "atr": 0.011356,
+    "action": "STRONG BUY",
+    "regime": "bear",
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.843840",
+    "mfe_atr": -1.863,
+    "mae_atr": -1.863
+  },
+  {
+    "coin": "morpho",
+    "timestamp": "2026-08-01T12:17:57.836381",
+    "ml_proba": 0.5,
+    "bayes_prob": 0.5891,
+    "p_bayes_raw": 0.6791,
+    "p_transition": 0.5,
+    "price": 1.964749,
+    "atr": 0.085192,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "beldex",
+    "timestamp": "2026-08-01T12:18:01.911403",
+    "ml_proba": 0.3815,
+    "bayes_prob": 0.5834,
+    "p_bayes_raw": 0.9031,
+    "p_transition": 0.5,
+    "price": 0.083581,
+    "atr": 0.002993,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "the9bit",
+    "timestamp": "2026-08-01T12:18:05.409196",
+    "ml_proba": 0.5,
+    "bayes_prob": 0.7137,
+    "p_bayes_raw": 0.9976,
+    "p_transition": 0.6984,
+    "price": 0.049948,
+    "atr": 0.001237,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": 0,
+    "resolved_at": "2026-08-01T12:19:02.843966",
+    "mfe_atr": -1.961,
+    "mae_atr": -1.961
+  },
+  {
+    "coin": "velvet",
+    "timestamp": "2026-08-01T12:18:13.302711",
+    "ml_proba": 0.3855,
+    "bayes_prob": 0.648,
+    "p_bayes_raw": 0.0824,
+    "p_transition": 0.5522,
+    "price": 0.402876,
+    "atr": 0.098835,
+    "action": "BUY",
+    "regime": "bear",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "kaito",
+    "timestamp": "2026-08-01T12:18:17.834765",
+    "ml_proba": 0.5,
+    "bayes_prob": 0.7036,
+    "p_bayes_raw": 0.9702,
+    "p_transition": 0.5,
+    "price": 1.100722,
+    "atr": 0.102474,
+    "action": "STRONG BUY",
+    "regime": "chop",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "uniswap",
+    "timestamp": "2026-08-01T12:18:30.149972",
+    "ml_proba": 0.441,
+    "bayes_prob": 0.8334,
+    "p_bayes_raw": 0.9909,
+    "p_transition": 0.6887,
+    "price": 4.057728,
+    "atr": 0.194462,
+    "action": "STRONG BUY",
+    "regime": "bear",
+    "outcome": null,
+    "resolved_at": null
+  },
+  {
+    "coin": "pancakeswap-token",
+    "timestamp": "2026-08-01T12:18:34.400685",
+    "ml_proba": 0.3935,
+    "bayes_prob": 0.7162,
+    "p_bayes_raw": 0.8894,
+    "p_transition": 0.7086,
+    "price": 1.409967,
+    "atr": 0.038673,
     "action": "STRONG BUY",
     "regime": "chop",
     "outcome": null,

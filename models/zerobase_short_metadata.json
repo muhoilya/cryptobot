@@ -1,8 +1,8 @@
 {
   "coin": "zerobase",
-  "trained_date": "2026-07-24T12:50:12.036726",
-  "accuracy": 0.9142857142857143,
-  "samples": 256,
+  "trained_date": "2026-08-01T12:28:14.661575",
+  "accuracy": 0.9166666666666666,
+  "samples": 264,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

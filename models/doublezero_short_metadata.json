@@ -1,8 +1,8 @@
 {
   "coin": "doublezero",
-  "trained_date": "2026-07-23T13:00:12.861104",
-  "accuracy": 1.0,
-  "samples": 270,
+  "trained_date": "2026-08-01T12:25:36.887895",
+  "accuracy": 0.7631578947368421,
+  "samples": 279,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

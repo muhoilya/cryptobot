@@ -1,7 +1,7 @@
 {
   "coin": "polkadot",
-  "trained_date": "2026-07-24T12:46:16.106307",
-  "accuracy": 0.8541666666666666,
+  "trained_date": "2026-08-01T12:14:04.015423",
+  "accuracy": 0.875,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

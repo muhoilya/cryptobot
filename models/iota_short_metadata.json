@@ -1,7 +1,7 @@
 {
   "coin": "iota",
-  "trained_date": "2026-07-23T13:01:28.838563",
-  "accuracy": 0.8333333333333334,
+  "trained_date": "2026-08-01T12:26:34.013259",
+  "accuracy": 0.875,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

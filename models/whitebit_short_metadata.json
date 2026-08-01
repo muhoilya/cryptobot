@@ -1,7 +1,7 @@
 {
   "coin": "whitebit",
-  "trained_date": "2026-07-24T12:49:48.182855",
-  "accuracy": 0.8333333333333334,
+  "trained_date": "2026-08-01T12:18:42.987639",
+  "accuracy": 0.9791666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
