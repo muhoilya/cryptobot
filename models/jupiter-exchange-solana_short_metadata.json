@@ -1,7 +1,7 @@
 {
   "coin": "jupiter-exchange-solana",
-  "trained_date": "2026-08-01T12:22:21.300502",
-  "accuracy": 0.875,
+  "trained_date": "2026-08-02T12:24:23.060937",
+  "accuracy": 0.7708333333333334,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

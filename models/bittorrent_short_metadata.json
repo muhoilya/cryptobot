@@ -1,7 +1,7 @@
 {
   "coin": "bittorrent",
-  "trained_date": "2026-07-21T12:54:06.375284",
-  "accuracy": 0.875,
+  "trained_date": "2026-08-02T12:26:26.540450",
+  "accuracy": 0.9583333333333334,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

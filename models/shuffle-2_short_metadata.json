@@ -1,7 +1,7 @@
 {
   "coin": "shuffle-2",
-  "trained_date": "2026-08-01T12:16:12.623767",
-  "accuracy": 0.7708333333333334,
+  "trained_date": "2026-08-02T12:18:45.380029",
+  "accuracy": 0.7916666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

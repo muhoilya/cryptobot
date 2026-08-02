@@ -1,0 +1,10 @@
+{
+  "coin": "holoworld",
+  "trained_date": "2026-08-02T12:31:17.564584",
+  "accuracy": 0.9761904761904762,
+  "samples": 301,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

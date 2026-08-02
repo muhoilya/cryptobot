@@ -1,6 +1,6 @@
 {
   "coin": "neo",
-  "trained_date": "2026-08-01T12:27:39.817444",
+  "trained_date": "2026-08-02T12:30:00.805240",
   "accuracy": 0.8541666666666666,
   "samples": 340,
   "model_version": "v8.2",

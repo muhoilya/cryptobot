@@ -1,7 +1,7 @@
 {
   "coin": "layerzero",
-  "trained_date": "2026-08-01T12:24:15.971197",
-  "accuracy": 0.9375,
+  "trained_date": "2026-08-02T12:26:42.213660",
+  "accuracy": 0.9166666666666666,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

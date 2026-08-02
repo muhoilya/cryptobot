@@ -1,8 +1,8 @@
 {
   "coin": "kite-2",
-  "trained_date": "2026-07-18T12:20:40.775367",
-  "accuracy": 0.59375,
-  "samples": 233,
+  "trained_date": "2026-08-02T12:27:12.062432",
+  "accuracy": 0.14705882352941177,
+  "samples": 248,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

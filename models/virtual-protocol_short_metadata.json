@@ -1,7 +1,7 @@
 {
   "coin": "virtual-protocol",
-  "trained_date": "2026-08-01T12:28:51.736259",
-  "accuracy": 0.7291666666666666,
+  "trained_date": "2026-08-02T12:25:20.305978",
+  "accuracy": 0.8125,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

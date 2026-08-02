@@ -1,7 +1,7 @@
 {
   "coin": "solana",
-  "trained_date": "2026-08-01T12:13:46.303190",
-  "accuracy": 0.9375,
+  "trained_date": "2026-08-02T12:16:49.063100",
+  "accuracy": 0.9791666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

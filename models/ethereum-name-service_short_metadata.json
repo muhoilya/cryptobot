@@ -1,6 +1,6 @@
 {
   "coin": "ethereum-name-service",
-  "trained_date": "2026-08-01T12:25:57.126629",
+  "trained_date": "2026-08-02T12:28:13.558316",
   "accuracy": 0.875,
   "samples": 340,
   "model_version": "v8.2",
