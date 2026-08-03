@@ -1,8 +1,8 @@
 {
   "coin": "bitcoin-cash-sv",
-  "trained_date": "2026-08-02T12:26:37.676268",
-  "accuracy": 0.9166666666666666,
-  "samples": 340,
+  "trained_date": "2026-08-03T13:58:52.966725",
+  "accuracy": 0.9148936170212766,
+  "samples": 339,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

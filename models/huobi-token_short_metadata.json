@@ -1,8 +1,8 @@
 {
   "coin": "huobi-token",
-  "trained_date": "2026-08-02T12:20:52.884688",
+  "trained_date": "2026-08-03T13:53:16.522731",
   "accuracy": 1.0,
-  "samples": 314,
+  "samples": 313,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

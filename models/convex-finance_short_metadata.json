@@ -1,8 +1,8 @@
 {
   "coin": "convex-finance",
-  "trained_date": "2026-08-02T12:29:52.951919",
+  "trained_date": "2026-08-03T14:02:12.427889",
   "accuracy": 1.0,
-  "samples": 340,
+  "samples": 339,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

@@ -1,5 +1,5 @@
 {
-  "calibrated_date": "2026-08-02T12:21:00.960308",
+  "calibrated_date": "2026-08-03T13:53:24.077533",
   "n_signals": 94,
   "lrs": {
     "btc_bull_regime": [
@@ -11,12 +11,12 @@
       1.4
     ],
     "above_weekly_ema50": [
-      1.175,
+      1.172,
       0.95
     ],
     "below_weekly_ema50": [
-      0.9,
-      1.091
+      0.898,
+      1.099
     ],
     "above_cloud": [
       1.089,
@@ -99,20 +99,20 @@
       1.4
     ],
     "obv_rising_at_high": [
-      1.528,
-      0.801
+      1.529,
+      0.8
     ],
     "obv_rising_not_at_high": [
-      1.125,
-      0.932
+      1.115,
+      0.938
     ],
     "obv_flat": [
-      1.026,
+      1.027,
       0.989
     ],
     "obv_falling": [
-      0.949,
-      1.075
+      0.938,
+      1.091
     ],
     "sm_accumulation": [
       1.218,
@@ -127,8 +127,8 @@
       0.916
     ],
     "volume_increasing_trend": [
-      1.087,
-      0.957
+      1.088,
+      0.958
     ],
     "volume_healthy": [
       1.054,

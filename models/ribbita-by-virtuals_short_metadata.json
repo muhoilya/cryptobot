@@ -1,8 +1,8 @@
 {
   "coin": "ribbita-by-virtuals",
-  "trained_date": "2026-08-02T12:18:22.096401",
-  "accuracy": 0.8958333333333334,
-  "samples": 314,
+  "trained_date": "2026-08-03T13:50:53.673880",
+  "accuracy": 0.8936170212765957,
+  "samples": 313,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

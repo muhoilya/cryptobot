@@ -1,8 +1,8 @@
 {
   "coin": "celestia",
-  "trained_date": "2026-08-02T12:16:06.774194",
-  "accuracy": 0.9791666666666666,
-  "samples": 314,
+  "trained_date": "2026-08-03T13:48:37.273092",
+  "accuracy": 0.9787234042553191,
+  "samples": 313,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

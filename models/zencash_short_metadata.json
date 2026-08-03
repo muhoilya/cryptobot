@@ -1,8 +1,8 @@
 {
   "coin": "zencash",
-  "trained_date": "2026-08-02T12:16:32.493168",
-  "accuracy": 0.9583333333333334,
-  "samples": 314,
+  "trained_date": "2026-08-03T13:49:02.376994",
+  "accuracy": 0.851063829787234,
+  "samples": 313,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

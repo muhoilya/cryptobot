@@ -1,8 +1,8 @@
 {
   "coin": "internet-computer",
-  "trained_date": "2026-08-02T12:18:38.753791",
+  "trained_date": "2026-08-03T13:51:10.163427",
   "accuracy": 1.0,
-  "samples": 314,
+  "samples": 313,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

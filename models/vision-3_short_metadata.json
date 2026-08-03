@@ -1,8 +1,8 @@
 {
   "coin": "vision-3",
-  "trained_date": "2026-08-02T12:29:37.490238",
-  "accuracy": 0.9375,
-  "samples": 340,
+  "trained_date": "2026-08-03T14:01:46.097876",
+  "accuracy": 0.9361702127659575,
+  "samples": 339,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

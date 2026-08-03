@@ -1,8 +1,8 @@
 {
   "coin": "ecash",
-  "trained_date": "2026-08-01T12:27:35.386045",
-  "accuracy": 0.9375,
-  "samples": 340,
+  "trained_date": "2026-08-03T14:02:00.279725",
+  "accuracy": 0.9361702127659575,
+  "samples": 339,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

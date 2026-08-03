@@ -1,8 +1,8 @@
 {
   "coin": "apenft",
-  "trained_date": "2026-08-02T12:26:22.145552",
-  "accuracy": 0.22916666666666666,
-  "samples": 340,
+  "trained_date": "2026-08-03T13:58:36.214351",
+  "accuracy": 0.3191489361702128,
+  "samples": 339,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

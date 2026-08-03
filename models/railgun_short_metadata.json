@@ -1,8 +1,8 @@
 {
   "coin": "railgun",
-  "trained_date": "2026-08-02T12:20:22.900406",
-  "accuracy": 0.9166666666666666,
-  "samples": 314,
+  "trained_date": "2026-08-03T13:52:46.943935",
+  "accuracy": 0.9148936170212766,
+  "samples": 313,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",
