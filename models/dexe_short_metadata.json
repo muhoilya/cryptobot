@@ -1,8 +1,8 @@
 {
   "coin": "dexe",
-  "trained_date": "2026-08-03T14:03:30.979925",
-  "accuracy": 0.8297872340425532,
-  "samples": 339,
+  "trained_date": "2026-08-04T13:19:25.378736",
+  "accuracy": 0.8333333333333334,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

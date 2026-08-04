@@ -1,8 +1,8 @@
 {
   "coin": "ultima",
-  "trained_date": "2026-08-03T13:59:38.021988",
-  "accuracy": 0.851063829787234,
-  "samples": 339,
+  "trained_date": "2026-08-04T13:19:49.552405",
+  "accuracy": 0.8541666666666666,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

@@ -1,8 +1,8 @@
 {
   "coin": "apecoin",
-  "trained_date": "2026-08-03T13:51:46.180203",
-  "accuracy": 0.8936170212765957,
-  "samples": 313,
+  "trained_date": "2026-08-04T13:11:59.715245",
+  "accuracy": 0.875,
+  "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

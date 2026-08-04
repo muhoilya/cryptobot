@@ -1,7 +1,7 @@
 {
   "coin": "kaia",
-  "trained_date": "2026-07-13T09:20:01.806242",
-  "accuracy": 0.7916666666666666,
+  "trained_date": "2026-08-04T13:20:27.073463",
+  "accuracy": 0.8125,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

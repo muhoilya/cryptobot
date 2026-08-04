@@ -1,8 +1,8 @@
 {
   "coin": "ethereum",
-  "trained_date": "2026-08-03T13:49:23.075080",
-  "accuracy": 0.9361702127659575,
-  "samples": 313,
+  "trained_date": "2026-08-04T13:09:55.505626",
+  "accuracy": 0.9375,
+  "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

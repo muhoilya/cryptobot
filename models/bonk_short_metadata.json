@@ -1,8 +1,8 @@
 {
   "coin": "bonk",
-  "trained_date": "2026-08-03T13:48:52.535535",
-  "accuracy": 0.7446808510638298,
-  "samples": 313,
+  "trained_date": "2026-08-04T13:09:28.467467",
+  "accuracy": 0.7083333333333334,
+  "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

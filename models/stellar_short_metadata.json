@@ -1,7 +1,7 @@
 {
   "coin": "stellar",
-  "trained_date": "2026-07-18T12:11:26.343922",
-  "accuracy": 0.7083333333333334,
+  "trained_date": "2026-08-04T13:14:17.987438",
+  "accuracy": 0.9583333333333334,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

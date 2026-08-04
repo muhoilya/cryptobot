@@ -1,8 +1,8 @@
 {
   "coin": "basic-attention-token",
-  "trained_date": "2026-08-03T13:51:06.857645",
-  "accuracy": 0.8936170212765957,
-  "samples": 313,
+  "trained_date": "2026-08-04T13:11:24.620688",
+  "accuracy": 0.8958333333333334,
+  "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

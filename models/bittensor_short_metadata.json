@@ -1,8 +1,8 @@
 {
   "coin": "bittensor",
-  "trained_date": "2026-08-03T13:49:21.603775",
-  "accuracy": 0.9787234042553191,
-  "samples": 313,
+  "trained_date": "2026-08-04T13:09:54.504784",
+  "accuracy": 0.9791666666666666,
+  "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

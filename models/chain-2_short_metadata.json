@@ -1,8 +1,8 @@
 {
   "coin": "chain-2",
-  "trained_date": "2026-08-03T14:02:36.755587",
-  "accuracy": 0.9148936170212766,
-  "samples": 339,
+  "trained_date": "2026-08-04T13:22:25.086150",
+  "accuracy": 0.875,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",
