@@ -1,7 +1,7 @@
 {
   "coin": "dydx",
-  "trained_date": "2026-08-04T13:11:03.750560",
-  "accuracy": 0.9791666666666666,
+  "trained_date": "2026-08-05T13:04:51.548155",
+  "accuracy": 0.8958333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

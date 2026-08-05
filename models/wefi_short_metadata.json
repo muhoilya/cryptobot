@@ -1,8 +1,8 @@
 {
   "coin": "wefi",
-  "trained_date": "2026-08-03T14:00:30.390838",
-  "accuracy": 0.8723404255319149,
-  "samples": 339,
+  "trained_date": "2026-08-05T13:14:54.523370",
+  "accuracy": 0.875,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

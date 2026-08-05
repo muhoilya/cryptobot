@@ -1,8 +1,8 @@
 {
   "coin": "raydium",
-  "trained_date": "2026-08-04T13:09:25.707846",
-  "accuracy": 0.625,
-  "samples": 314,
+  "trained_date": "2026-08-05T13:15:22.816515",
+  "accuracy": 0.6666666666666666,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

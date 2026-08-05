@@ -1,0 +1,10 @@
+{
+  "coin": "zama",
+  "trained_date": "2026-08-05T13:17:43.122975",
+  "accuracy": 0.6190476190476191,
+  "samples": 160,
+  "model_version": "v8.2",
+  "n_features": 20,
+  "model_type": "GradientBoosting_SHORT",
+  "label": "1=short_wins(price fell -2.5ATR before +1.5ATR stop)"
+}

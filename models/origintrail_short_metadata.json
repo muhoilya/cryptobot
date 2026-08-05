@@ -1,7 +1,7 @@
 {
   "coin": "origintrail",
-  "trained_date": "2026-08-04T13:22:09.657460",
-  "accuracy": 0.8958333333333334,
+  "trained_date": "2026-08-05T13:17:19.254338",
+  "accuracy": 0.9583333333333334,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

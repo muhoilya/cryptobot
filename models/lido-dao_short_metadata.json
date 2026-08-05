@@ -1,7 +1,7 @@
 {
   "coin": "lido-dao",
-  "trained_date": "2026-08-04T13:13:15.455806",
-  "accuracy": 0.9375,
+  "trained_date": "2026-08-05T13:07:18.337978",
+  "accuracy": 0.9166666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

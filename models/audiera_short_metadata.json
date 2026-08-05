@@ -1,8 +1,8 @@
 {
   "coin": "audiera",
-  "trained_date": "2026-08-04T13:22:50.831090",
-  "accuracy": 0.9705882352941176,
-  "samples": 252,
+  "trained_date": "2026-08-05T13:17:50.837361",
+  "accuracy": 0.9428571428571428,
+  "samples": 253,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",
