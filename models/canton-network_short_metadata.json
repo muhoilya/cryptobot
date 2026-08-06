@@ -1,8 +1,8 @@
 {
   "coin": "canton-network",
-  "trained_date": "2026-08-05T13:08:39.194770",
-  "accuracy": 0.7878787878787878,
-  "samples": 244,
+  "trained_date": "2026-08-06T13:18:01.495111",
+  "accuracy": 0.7575757575757576,
+  "samples": 245,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

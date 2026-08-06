@@ -1,8 +1,8 @@
 {
   "coin": "usx",
-  "trained_date": "2026-08-01T12:22:46.312406",
+  "trained_date": "2026-08-06T13:11:48.212482",
   "accuracy": 1.0,
-  "samples": 284,
+  "samples": 289,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

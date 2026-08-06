@@ -1,6 +1,6 @@
 {
   "coin": "morpho",
-  "trained_date": "2026-08-05T13:09:44.862942",
+  "trained_date": "2026-08-06T13:10:10.436694",
   "accuracy": 0.9583333333333334,
   "samples": 340,
   "model_version": "v8.2",

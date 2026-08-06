@@ -1,7 +1,7 @@
 {
   "coin": "worldcoin-wld",
-  "trained_date": "2026-08-05T13:06:34.946400",
-  "accuracy": 0.9375,
+  "trained_date": "2026-08-06T13:07:14.867317",
+  "accuracy": 0.8958333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

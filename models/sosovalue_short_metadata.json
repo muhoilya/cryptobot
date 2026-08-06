@@ -1,7 +1,7 @@
 {
   "coin": "sosovalue",
-  "trained_date": "2026-08-05T13:17:31.400879",
-  "accuracy": 0.2916666666666667,
+  "trained_date": "2026-08-06T13:17:12.924303",
+  "accuracy": 0.22916666666666666,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

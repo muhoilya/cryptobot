@@ -1,5 +1,5 @@
 {
-  "calibrated_date": "2026-08-05T13:07:32.246287",
+  "calibrated_date": "2026-08-06T13:08:15.920546",
   "n_signals": 94,
   "lrs": {
     "btc_bull_regime": [
@@ -11,84 +11,84 @@
       1.4
     ],
     "above_weekly_ema50": [
-      1.228,
-      0.936
+      1.195,
+      0.944
     ],
     "below_weekly_ema50": [
-      0.91,
-      1.086
+      0.914,
+      1.077
     ],
     "above_cloud": [
-      1.116,
-      0.971
+      1.164,
+      0.958
     ],
     "in_cloud": [
-      0.933,
-      1.029
+      0.892,
+      1.043
     ],
     "below_cloud_block": [
-      0.932,
-      1.198
+      0.936,
+      1.189
     ],
     "tenkan_above_kijun": [
-      1.092,
-      0.952
+      1.083,
+      0.957
     ],
     "chikou_fully_bullish": [
-      1.054,
-      0.981
+      1.082,
+      0.971
     ],
     "chikou_partial_bullish": [
-      1.068,
-      0.982
-    ],
-    "chikou_fully_bearish": [
-      0.939,
-      1.078
-    ],
-    "chikou_partial_bearish": [
-      0.968,
-      1.011
-    ],
-    "macd_bullish_hist": [
-      1.055,
-      1.022
-    ],
-    "macd_bearish_hist": [
-      0.999,
-      1.024
-    ],
-    "ema12_above_ema26": [
-      1.003,
-      1.014
-    ],
-    "ema12_below_ema26": [
-      0.995,
+      1.06,
       0.983
     ],
+    "chikou_fully_bearish": [
+      0.951,
+      1.067
+    ],
+    "chikou_partial_bearish": [
+      0.963,
+      1.013
+    ],
+    "macd_bullish_hist": [
+      1.05,
+      1.021
+    ],
+    "macd_bearish_hist": [
+      1.0,
+      1.021
+    ],
+    "ema12_above_ema26": [
+      1.004,
+      1.017
+    ],
+    "ema12_below_ema26": [
+      0.994,
+      0.98
+    ],
     "di_plus_dominant": [
-      1.022,
-      1.1
+      1.021,
+      1.112
     ],
     "di_minus_dominant": [
-      1.033,
-      1.018
+      1.043,
+      1.019
     ],
     "rsi_continuation_zone": [
       0.987,
-      1.014
+      1.013
     ],
     "rsi_extreme_overbought": [
       0.45,
       1.75
     ],
     "rsi_oversold_bounce": [
-      1.237,
-      0.945
+      1.182,
+      0.957
     ],
     "rsi_range_overbought": [
-      0.934,
-      1.036
+      0.867,
+      1.08
     ],
     "rsi_bullish_divergence": [
       1.65,
@@ -99,52 +99,52 @@
       1.4
     ],
     "obv_rising_at_high": [
-      1.277,
-      0.881
-    ],
-    "obv_rising_not_at_high": [
-      1.244,
-      0.889
-    ],
-    "obv_flat": [
-      1.097,
-      0.961
-    ],
-    "obv_falling": [
-      0.918,
-      1.181
-    ],
-    "sm_accumulation": [
-      1.228,
+      1.233,
       0.896
     ],
+    "obv_rising_not_at_high": [
+      1.157,
+      0.922
+    ],
+    "obv_flat": [
+      1.123,
+      0.949
+    ],
+    "obv_falling": [
+      0.934,
+      1.203
+    ],
+    "sm_accumulation": [
+      1.197,
+      0.909
+    ],
     "sm_distribution": [
-      0.688,
-      1.478
+      0.685,
+      1.514
     ],
     "volume_spike_confirmed": [
-      1.252,
-      0.881
-    ],
-    "volume_increasing_trend": [
-      1.114,
-      0.939
-    ],
-    "volume_healthy": [
-      1.062,
+      1.217,
       0.895
     ],
+    "volume_increasing_trend": [
+      1.087,
+      0.949
+    ],
+    "volume_healthy": [
+      1.072,
+      0.875
+    ],
     "volume_fake_move": [
-      0.668,
-      1.322
+      0.721,
+      1.248
     ],
     "volume_churning": [
       0.45,
       1.7
     ],
     "volume_weak": [
-      0.981,
-      1.015
+      0.966,
+      1.017
     ],
     "vol_expansion_bullish": [
       1.65,
@@ -163,20 +163,20 @@
       0.88
     ],
     "vol_bb_wide": [
-      1.278,
-      0.955
+      1.236,
+      0.961
     ],
     "vol_bb_narrow": [
-      1.073,
-      1.001
+      1.059,
+      1.002
     ],
     "vol_atr_expanding": [
-      1.154,
-      0.946
+      1.175,
+      0.939
     ],
     "vol_atr_contracting": [
-      0.837,
-      1.063
+      0.835,
+      1.062
     ],
     "vol_hv_rising": [
       1.25,
@@ -191,36 +191,36 @@
       1.05
     ],
     "zscore_healthy_trend": [
-      1.279,
-      0.899
+      1.268,
+      0.901
     ],
     "zscore_blow_off": [
-      0.516,
-      1.772
+      0.642,
+      1.439
     ],
     "zscore_oversold_range": [
-      1.141,
-      0.906
+      1.196,
+      0.877
     ],
     "zscore_falling_knife": [
       0.45,
       1.8
     ],
     "ema26_extreme_stretch": [
-      0.426,
-      1.704
+      0.424,
+      1.709
     ],
     "ema26_very_stretched": [
-      0.634,
-      1.427
+      0.947,
+      1.043
     ],
     "ema26_stretched": [
-      0.929,
-      1.061
+      0.892,
+      1.102
     ],
     "ema26_oversold": [
-      1.579,
-      0.884
+      1.564,
+      0.883
     ],
     "wick_rejection": [
       0.55,
@@ -291,20 +291,20 @@
       1.2
     ],
     "strong_chop_zone": [
-      0.906,
-      1.055
+      0.931,
+      1.035
     ],
     "moderate_chop_zone": [
-      1.038,
-      0.989
+      1.04,
+      0.987
     ],
     "breakout_confirmed": [
-      1.12,
-      0.933
+      1.095,
+      0.945
     ],
     "breakdown_confirmed": [
-      0.881,
-      1.083
+      0.89,
+      1.077
     ],
     "sentiment_very_positive": [
       1.18,

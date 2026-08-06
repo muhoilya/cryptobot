@@ -1,6 +1,6 @@
 {
   "coin": "filecoin",
-  "trained_date": "2026-08-05T13:04:29.137154",
+  "trained_date": "2026-08-06T13:05:03.205867",
   "accuracy": 0.9375,
   "samples": 314,
   "model_version": "v8.2",

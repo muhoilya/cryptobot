@@ -1,8 +1,8 @@
 {
   "coin": "euro-coin",
-  "trained_date": "2026-08-03T13:57:24.038011",
-  "accuracy": 0.7021276595744681,
-  "samples": 339,
+  "trained_date": "2026-08-06T13:11:56.254882",
+  "accuracy": 0.7083333333333334,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

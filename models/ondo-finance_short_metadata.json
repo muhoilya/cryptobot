@@ -1,7 +1,7 @@
 {
   "coin": "ondo-finance",
-  "trained_date": "2026-08-05T13:04:22.791643",
-  "accuracy": 0.9166666666666666,
+  "trained_date": "2026-08-06T13:04:56.518241",
+  "accuracy": 0.9583333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
