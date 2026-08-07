@@ -1,7 +1,7 @@
 {
   "coin": "okb",
-  "trained_date": "2026-08-06T13:06:08.796049",
-  "accuracy": 1.0,
+  "trained_date": "2026-08-07T12:00:16.643553",
+  "accuracy": 0.9583333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

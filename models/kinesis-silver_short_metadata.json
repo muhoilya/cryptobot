@@ -1,7 +1,7 @@
 {
   "coin": "kinesis-silver",
-  "trained_date": "2026-07-23T12:59:57.559757",
-  "accuracy": 0.875,
+  "trained_date": "2026-08-07T12:08:24.944142",
+  "accuracy": 0.7708333333333334,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

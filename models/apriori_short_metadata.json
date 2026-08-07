@@ -1,8 +1,8 @@
 {
   "coin": "apriori",
-  "trained_date": "2026-08-05T13:14:38.066402",
-  "accuracy": 1.0,
-  "samples": 262,
+  "trained_date": "2026-08-07T12:09:23.089826",
+  "accuracy": 0.9722222222222222,
+  "samples": 264,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

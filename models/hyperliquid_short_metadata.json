@@ -1,7 +1,7 @@
 {
   "coin": "hyperliquid",
-  "trained_date": "2026-08-06T13:05:06.695060",
-  "accuracy": 0.9375,
+  "trained_date": "2026-08-07T11:59:15.327472",
+  "accuracy": 0.8958333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

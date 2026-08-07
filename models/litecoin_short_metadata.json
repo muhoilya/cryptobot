@@ -1,7 +1,7 @@
 {
   "coin": "litecoin",
-  "trained_date": "2026-08-06T13:09:16.564542",
-  "accuracy": 0.9166666666666666,
+  "trained_date": "2026-08-07T12:03:31.646040",
+  "accuracy": 0.8333333333333334,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

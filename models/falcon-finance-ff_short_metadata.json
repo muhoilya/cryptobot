@@ -1,8 +1,8 @@
 {
   "coin": "falcon-finance-ff",
-  "trained_date": "2026-08-06T13:15:05.191382",
+  "trained_date": "2026-08-07T12:09:37.866271",
   "accuracy": 0.975,
-  "samples": 287,
+  "samples": 288,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

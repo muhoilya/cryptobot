@@ -1,7 +1,7 @@
 {
   "coin": "jasmycoin",
-  "trained_date": "2026-08-06T13:14:36.048281",
-  "accuracy": 0.9791666666666666,
+  "trained_date": "2026-08-07T12:12:58.464160",
+  "accuracy": 0.9166666666666666,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

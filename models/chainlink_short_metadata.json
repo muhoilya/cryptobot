@@ -1,7 +1,7 @@
 {
   "coin": "chainlink",
-  "trained_date": "2026-08-06T13:04:19.569699",
-  "accuracy": 0.9375,
+  "trained_date": "2026-08-07T11:58:29.367918",
+  "accuracy": 0.9166666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

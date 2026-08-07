@@ -1,7 +1,7 @@
 {
   "coin": "kaspa",
-  "trained_date": "2026-08-06T13:11:05.610113",
-  "accuracy": 0.9166666666666666,
+  "trained_date": "2026-08-07T12:05:29.505970",
+  "accuracy": 0.9375,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
