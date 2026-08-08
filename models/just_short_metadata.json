@@ -1,8 +1,8 @@
 {
   "coin": "just",
-  "trained_date": "2026-08-07T12:00:23.702772",
-  "accuracy": 0.9791666666666666,
-  "samples": 314,
+  "trained_date": "2026-08-08T11:45:35.286881",
+  "accuracy": 0.9787234042553191,
+  "samples": 313,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

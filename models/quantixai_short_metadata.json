@@ -1,8 +1,8 @@
 {
   "coin": "quantixai",
-  "trained_date": "2026-07-24T12:54:52.074658",
-  "accuracy": 0.8333333333333334,
-  "samples": 340,
+  "trained_date": "2026-08-08T11:52:30.374112",
+  "accuracy": 0.8936170212765957,
+  "samples": 339,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

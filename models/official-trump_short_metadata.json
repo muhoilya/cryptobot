@@ -1,8 +1,8 @@
 {
   "coin": "official-trump",
-  "trained_date": "2026-08-07T12:06:59.216548",
-  "accuracy": 0.9166666666666666,
-  "samples": 340,
+  "trained_date": "2026-08-08T11:52:25.759395",
+  "accuracy": 0.9574468085106383,
+  "samples": 339,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

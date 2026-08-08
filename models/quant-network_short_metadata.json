@@ -1,8 +1,8 @@
 {
   "coin": "quant-network",
-  "trained_date": "2026-08-07T12:05:11.173141",
-  "accuracy": 0.9166666666666666,
-  "samples": 340,
+  "trained_date": "2026-08-08T11:50:41.853849",
+  "accuracy": 0.9148936170212766,
+  "samples": 339,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

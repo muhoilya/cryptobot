@@ -1,8 +1,8 @@
 {
   "coin": "onyc",
-  "trained_date": "2026-08-07T12:08:06.554716",
+  "trained_date": "2026-08-08T11:53:32.017254",
   "accuracy": 0.9361702127659575,
-  "samples": 339,
+  "samples": 338,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

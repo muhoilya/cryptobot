@@ -1,8 +1,8 @@
 {
   "coin": "aerodrome-finance",
-  "trained_date": "2026-08-07T11:59:55.193728",
-  "accuracy": 0.9375,
-  "samples": 314,
+  "trained_date": "2026-08-08T11:45:07.868042",
+  "accuracy": 0.9361702127659575,
+  "samples": 313,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

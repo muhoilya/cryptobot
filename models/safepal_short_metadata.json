@@ -1,8 +1,8 @@
 {
   "coin": "safepal",
-  "trained_date": "2026-08-07T12:00:44.728021",
-  "accuracy": 0.625,
-  "samples": 314,
+  "trained_date": "2026-08-08T11:45:55.872531",
+  "accuracy": 0.8936170212765957,
+  "samples": 313,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

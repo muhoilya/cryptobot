@@ -1,8 +1,8 @@
 {
   "coin": "ethereum-name-service",
-  "trained_date": "2026-08-07T12:09:57.721201",
-  "accuracy": 0.875,
-  "samples": 340,
+  "trained_date": "2026-08-08T11:55:09.337751",
+  "accuracy": 0.8297872340425532,
+  "samples": 339,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

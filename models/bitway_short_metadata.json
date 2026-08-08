@@ -1,8 +1,8 @@
 {
   "coin": "bitway",
-  "trained_date": "2026-08-07T12:01:25.888351",
-  "accuracy": 0.8823529411764706,
-  "samples": 107,
+  "trained_date": "2026-08-08T11:58:08.632928",
+  "accuracy": 0.9411764705882353,
+  "samples": 133,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",
