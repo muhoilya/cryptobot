@@ -1,8 +1,8 @@
 {
   "coin": "collector-crypt",
-  "trained_date": "2026-08-08T11:58:12.926964",
-  "accuracy": 0.9318181818181818,
-  "samples": 318,
+  "trained_date": "2026-08-09T11:56:30.204688",
+  "accuracy": 0.9333333333333333,
+  "samples": 320,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

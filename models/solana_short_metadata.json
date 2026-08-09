@@ -1,8 +1,8 @@
 {
   "coin": "solana",
-  "trained_date": "2026-08-08T11:43:21.332025",
-  "accuracy": 1.0,
-  "samples": 313,
+  "trained_date": "2026-08-09T11:46:01.230057",
+  "accuracy": 0.9583333333333334,
+  "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

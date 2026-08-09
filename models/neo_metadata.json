@@ -1,7 +1,7 @@
 {
   "coin": "neo",
-  "trained_date": "2026-08-01T12:16:44.730179",
-  "accuracy": 0.4666666666666667,
+  "trained_date": "2026-08-09T11:48:52.608426",
+  "accuracy": 0.8,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

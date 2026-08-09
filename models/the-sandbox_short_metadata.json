@@ -1,8 +1,8 @@
 {
   "coin": "the-sandbox",
-  "trained_date": "2026-08-08T11:57:13.355382",
-  "accuracy": 0.6808510638297872,
-  "samples": 339,
+  "trained_date": "2026-08-09T12:00:32.599189",
+  "accuracy": 0.625,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

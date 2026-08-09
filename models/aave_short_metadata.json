@@ -1,8 +1,8 @@
 {
   "coin": "aave",
-  "trained_date": "2026-08-08T11:47:34.562456",
-  "accuracy": 0.9574468085106383,
-  "samples": 313,
+  "trained_date": "2026-08-09T11:51:09.368198",
+  "accuracy": 0.9583333333333334,
+  "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

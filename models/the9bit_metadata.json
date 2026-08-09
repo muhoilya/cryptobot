@@ -1,7 +1,7 @@
 {
   "coin": "the9bit",
-  "trained_date": "2026-08-01T12:18:04.690166",
-  "accuracy": 0.06666666666666667,
+  "trained_date": "2026-08-09T11:50:21.292004",
+  "accuracy": 0.4,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

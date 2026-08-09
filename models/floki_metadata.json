@@ -1,7 +1,7 @@
 {
   "coin": "floki",
-  "trained_date": "2026-08-01T12:12:59.642788",
-  "accuracy": 0.4,
+  "trained_date": "2026-08-09T11:45:15.594893",
+  "accuracy": 0.26666666666666666,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

@@ -1,8 +1,8 @@
 {
   "coin": "dogwifcoin",
-  "trained_date": "2026-08-08T11:56:20.202608",
-  "accuracy": 0.7446808510638298,
-  "samples": 339,
+  "trained_date": "2026-08-09T11:59:30.662764",
+  "accuracy": 0.9166666666666666,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

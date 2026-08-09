@@ -1,8 +1,8 @@
 {
   "coin": "flying-tulip",
-  "trained_date": "2026-08-01T12:17:25.480609",
-  "accuracy": 0.5882352941176471,
-  "samples": 109,
+  "trained_date": "2026-08-09T11:49:32.437152",
+  "accuracy": 0.7222222222222222,
+  "samples": 117,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",
   "model_version": "v8.2",

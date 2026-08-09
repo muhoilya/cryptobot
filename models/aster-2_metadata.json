@@ -1,7 +1,7 @@
 {
   "coin": "aster-2",
-  "trained_date": "2026-08-01T12:14:56.493426",
-  "accuracy": 0.9333333333333333,
+  "trained_date": "2026-08-09T11:47:08.737061",
+  "accuracy": 0.4,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

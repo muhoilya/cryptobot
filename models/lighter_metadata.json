@@ -1,7 +1,7 @@
 {
   "coin": "lighter",
-  "trained_date": "2026-08-01T12:17:48.721832",
-  "accuracy": 0.4,
+  "trained_date": "2026-08-09T11:49:54.754015",
+  "accuracy": 0.4666666666666667,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

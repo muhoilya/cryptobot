@@ -1,7 +1,7 @@
 {
   "coin": "morpho",
-  "trained_date": "2026-08-01T12:17:56.530264",
-  "accuracy": 0.13333333333333333,
+  "trained_date": "2026-08-09T11:50:02.042541",
+  "accuracy": 0.0,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

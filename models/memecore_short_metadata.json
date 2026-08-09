@@ -1,8 +1,8 @@
 {
   "coin": "memecore",
-  "trained_date": "2026-08-03T13:55:20.111562",
-  "accuracy": 0.8936170212765957,
-  "samples": 339,
+  "trained_date": "2026-08-09T12:01:15.904096",
+  "accuracy": 0.8958333333333334,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

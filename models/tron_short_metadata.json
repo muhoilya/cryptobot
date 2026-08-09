@@ -1,8 +1,8 @@
 {
   "coin": "tron",
-  "trained_date": "2026-08-08T11:43:01.219262",
-  "accuracy": 0.851063829787234,
-  "samples": 313,
+  "trained_date": "2026-08-09T11:45:37.657245",
+  "accuracy": 0.9583333333333334,
+  "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

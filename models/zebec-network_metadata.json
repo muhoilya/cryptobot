@@ -1,7 +1,7 @@
 {
   "coin": "zebec-network",
-  "trained_date": "2026-08-01T12:16:07.529128",
-  "accuracy": 0.0,
+  "trained_date": "2026-08-09T11:48:16.552353",
+  "accuracy": 0.2,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

@@ -1,7 +1,7 @@
 {
   "coin": "dash",
-  "trained_date": "2026-08-01T12:13:16.331883",
-  "accuracy": 0.2,
+  "trained_date": "2026-08-09T11:45:32.635071",
+  "accuracy": 0.06666666666666667,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",

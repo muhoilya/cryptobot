@@ -1,8 +1,8 @@
 {
   "coin": "world-liberty-financial",
-  "trained_date": "2026-08-08T11:49:32.757403",
-  "accuracy": 0.8409090909090909,
-  "samples": 316,
+  "trained_date": "2026-08-09T11:53:06.638158",
+  "accuracy": 0.7272727272727273,
+  "samples": 318,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

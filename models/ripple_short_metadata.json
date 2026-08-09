@@ -1,8 +1,8 @@
 {
   "coin": "ripple",
-  "trained_date": "2026-08-08T11:48:00.668858",
-  "accuracy": 0.9574468085106383,
-  "samples": 339,
+  "trained_date": "2026-08-09T11:51:34.061512",
+  "accuracy": 0.9375,
+  "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

@@ -1,7 +1,7 @@
 {
   "coin": "arweave",
-  "trained_date": "2026-08-01T12:15:50.790200",
-  "accuracy": 0.0,
+  "trained_date": "2026-08-09T11:48:00.224966",
+  "accuracy": 0.4,
   "samples": 99,
   "wf_sharpe": 0.0,
   "feature_version": "v2.0-leak-fix",
