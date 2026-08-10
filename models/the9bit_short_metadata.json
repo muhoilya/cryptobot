@@ -1,8 +1,8 @@
 {
   "coin": "the9bit",
-  "trained_date": "2026-08-09T11:50:21.812359",
+  "trained_date": "2026-08-10T12:03:12.837967",
   "accuracy": 0.92,
-  "samples": 163,
+  "samples": 164,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

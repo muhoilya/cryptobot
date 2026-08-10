@@ -1,7 +1,7 @@
 {
   "coin": "the-sandbox",
-  "trained_date": "2026-08-09T12:00:32.599189",
-  "accuracy": 0.625,
+  "trained_date": "2026-08-10T12:13:27.486394",
+  "accuracy": 0.75,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

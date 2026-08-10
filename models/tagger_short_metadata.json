@@ -1,7 +1,7 @@
 {
   "coin": "tagger",
-  "trained_date": "2026-08-09T12:01:58.087566",
-  "accuracy": 0.8333333333333334,
+  "trained_date": "2026-08-10T12:13:04.400017",
+  "accuracy": 0.8541666666666666,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

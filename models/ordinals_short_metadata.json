@@ -1,7 +1,7 @@
 {
   "coin": "ordinals",
-  "trained_date": "2026-08-09T11:47:02.000803",
-  "accuracy": 0.8125,
+  "trained_date": "2026-08-10T12:00:46.152728",
+  "accuracy": 0.75,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

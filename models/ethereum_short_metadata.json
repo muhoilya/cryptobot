@@ -1,6 +1,6 @@
 {
   "coin": "ethereum",
-  "trained_date": "2026-08-09T11:46:07.657133",
+  "trained_date": "2026-08-10T11:59:44.832811",
   "accuracy": 0.9375,
   "samples": 314,
   "model_version": "v8.2",
