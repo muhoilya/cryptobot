@@ -1,8 +1,8 @@
 {
   "coin": "meta-2-2",
-  "trained_date": "2026-07-24T12:51:28.722926",
-  "accuracy": 0.9318181818181818,
-  "samples": 318,
+  "trained_date": "2026-08-11T12:13:51.131209",
+  "accuracy": 0.9361702127659575,
+  "samples": 336,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

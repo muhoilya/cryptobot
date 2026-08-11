@@ -1,7 +1,7 @@
 {
   "coin": "tezos",
-  "trained_date": "2026-08-10T12:10:24.188462",
-  "accuracy": 0.8541666666666666,
+  "trained_date": "2026-08-11T12:08:29.137190",
+  "accuracy": 0.875,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

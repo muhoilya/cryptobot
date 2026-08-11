@@ -1,6 +1,6 @@
 {
   "coin": "cardano",
-  "trained_date": "2026-08-10T12:04:42.606233",
+  "trained_date": "2026-08-11T12:12:38.373720",
   "accuracy": 0.9583333333333334,
   "samples": 340,
   "model_version": "v8.2",

@@ -1,7 +1,7 @@
 {
   "coin": "pi-network",
-  "trained_date": "2026-08-10T12:06:48.936817",
-  "accuracy": 0.5625,
+  "trained_date": "2026-08-11T12:12:56.384593",
+  "accuracy": 0.6666666666666666,
   "samples": 340,
   "model_version": "v8.2",
   "n_features": 20,

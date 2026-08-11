@@ -1,8 +1,8 @@
 {
   "coin": "rain",
-  "trained_date": "2026-08-10T12:04:31.861385",
+  "trained_date": "2026-08-11T12:03:14.593243",
   "accuracy": 0.813953488372093,
-  "samples": 309,
+  "samples": 310,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

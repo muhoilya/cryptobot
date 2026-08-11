@@ -1,7 +1,7 @@
 {
   "coin": "sky",
-  "trained_date": "2026-08-10T12:02:26.019704",
-  "accuracy": 0.8333333333333334,
+  "trained_date": "2026-08-11T11:59:36.924287",
+  "accuracy": 0.6041666666666666,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

@@ -1,6 +1,6 @@
 {
   "coin": "pendle",
-  "trained_date": "2026-08-10T12:10:11.537840",
+  "trained_date": "2026-08-11T12:08:16.490142",
   "accuracy": 0.9791666666666666,
   "samples": 340,
   "model_version": "v8.2",
