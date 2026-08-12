@@ -1,8 +1,8 @@
 {
   "coin": "aster-2",
-  "trained_date": "2026-08-11T11:57:58.658981",
+  "trained_date": "2026-08-12T12:05:26.538128",
   "accuracy": 0.9047619047619048,
-  "samples": 276,
+  "samples": 303,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

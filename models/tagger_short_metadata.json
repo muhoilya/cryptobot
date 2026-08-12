@@ -1,6 +1,6 @@
 {
   "coin": "tagger",
-  "trained_date": "2026-08-11T12:11:20.466500",
+  "trained_date": "2026-08-12T12:12:15.933929",
   "accuracy": 0.8541666666666666,
   "samples": 340,
   "model_version": "v8.2",

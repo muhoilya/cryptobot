@@ -1,8 +1,8 @@
 {
   "coin": "quack-ai",
-  "trained_date": "2026-08-11T12:13:26.956847",
-  "accuracy": 0.9772727272727273,
-  "samples": 319,
+  "trained_date": "2026-08-12T12:09:33.498540",
+  "accuracy": 0.9555555555555556,
+  "samples": 320,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",

@@ -1,7 +1,7 @@
 {
   "coin": "bitcoin",
-  "trained_date": "2026-08-11T11:57:09.606058",
-  "accuracy": 0.9166666666666666,
+  "trained_date": "2026-08-12T11:59:06.617201",
+  "accuracy": 0.9583333333333334,
   "samples": 314,
   "model_version": "v8.2",
   "n_features": 20,

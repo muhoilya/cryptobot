@@ -1,8 +1,8 @@
 {
   "coin": "holoworld",
-  "trained_date": "2026-08-05T13:16:16.350617",
-  "accuracy": 0.9523809523809523,
-  "samples": 304,
+  "trained_date": "2026-08-12T12:11:23.543142",
+  "accuracy": 0.9534883720930233,
+  "samples": 311,
   "model_version": "v8.2",
   "n_features": 20,
   "model_type": "GradientBoosting_SHORT",
